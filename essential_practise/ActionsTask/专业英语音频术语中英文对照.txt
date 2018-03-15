@@ -1,0 +1,2586 @@
+
+
+ 
+
+
+ 
+    A   AAC automatIC ampltiude control 自动幅度控制   AB AB制立体声录音法   Abeyancd 暂停＊潜态   A-B repeat A-B重复   ABS absolute 绝对的＊完全的＊绝对时间   ABS ameriCAN bureau of standard 美国标准局   ABSS auto blank secrion scanning 自动磁带空白部分扫描   Abstime 绝对运行时间 
+ A.DEF audio defeat 音频降噪＊噪声抑制＊伴音静噪 
+ ADJ adjective 附属的＊附件 
+ ADJ Adjust 调节 
+ ADJ acoustic delay line 声延迟线 
+ Admission 允许进入＊供给 
+ ADP acoustic data processor 音响数据处理机 
+ ADP(T) adapter 延配器＊转接器 
+ ADRES automatic dynamic range expansion system 动态范围扩展系统 
+ ADRM analog to digital remaster 模拟录音、数字处理数码唱盘 
+ ADS audio distribution system 音频分配系统 
+ A.DUB audio dubbing 配音＊音频复制＊后期录音 
+ ADV advance 送入＊提升＊前置量 
+ ADV adversum 对抗 
+ ADV advancer 相位超前补偿器 
+ Adventure 惊险效果 
+ AE audio erasing 音频（声音）擦除 
+ AE auxiliary eQUIPment 辅助设备 
+ Aerial 天线 
+ AES audio engineering society 美国声频工程协会 
+ AF audio fidelity 音频保真度 
+ AF audio Frequency 音频频率 
+ AFC active fiELD control 自动频率控制 
+ AFC automatic frequency control 声场控制 
+ Affricate 塞擦音 
+ AFL aside fade listen 衰减后（推子后）监听 
+ A-fader 音频衰减 
+ AFM advance frequency modulation 高级调频 
+ AFS acoustic feedback speaker 声反馈扬声器 
+ AFT automatic fine tuning 自动微调 
+ AFTAAS advanced fast time acoustic analysis system 高级快速音响分析系统 
+ After 转移部分文件 
+ Afterglow 余辉＊夕照时分音响效果 
+ Against 以……为背景 
+ AGC automatic gain control 自动增益控制 
+ AHD audio high density 音频高密度唱片系统 
+ AI advanced integrated 预汇流 
+ AI amplifier input 放大器输入 
+ AI artificial intelligence 人工智能 
+ AI azimuth inDICator 方位指示器 
+ A-IN 音频输入 
+ A-INSEL audio input selection 音频输入选择 
+ Alarm 警报器 
+ ALC automatic level control 自动电平控制 
+ ALC automatic load control自动负载控制 
+ Alford loop 爱福特环形天线 
+ ALGorithm 演示 
+ Aliasing 量化噪声＊频谱混叠 
+ Aliasing distortion 折叠失真 
+ Align alignment 校正＊补偿＊微调＊匹配 
+ Al-Si-Fe alloy head 铁硅铝合金磁头 
+ Allegretto 小快板＊稍快地 
+ Allegro 快板＊迅速地 
+ AlLOCation 配置＊定位 
+ All rating 全（音）域 
+ ALM audio level meter 音频电平表 
+ ALT aLTErnating 震荡＊交替的 
+ ALT alternator 交流发电机 
+ ALT altertue 转路 
+ ALT-CH alternate channel 转换通道＊交替声道 
+ Alter 转换＊交流电＊变换器 
+ AM amperemeter 安培计＊电流表 
+ AM amplitude modulation 调幅（广播） 
+ AM auxiliary memory 辅助存储器 
+ Ambience 临场感＊环绕感 
+ ABTD automatic bulk tape degausser 磁带自动整体去磁电路 
+ Ambient 环境的 
+ Ambiophonic system 环绕声系统 
+ Ambiophony 现场混响＊环境立体声 
+ AMLS automatic music locate system 自动音乐定位系统 
+ AMP ampere 安培 
+ AMP amplifier 放大器 
+ AMPL amplification 放大 
+ AMP amplitude 幅度＊距离 
+ Amorphous head 非晶态磁头 
+ Abort 终止＊停止（录制或播放） 
+ A-B TEST AB比较试听 
+ Absorber 减震器 
+ Absorption 声音被物体吸收 
+ ABX acoustic bass extension 低音扩展 
+ AC aCCumulator 充电电池 
+ AC adjustment caliration 调节-校准 
+ AC alternating current 交流电＊交流 
+ AC audio coding 数码声＊音频编码 
+ AC audio center 音频中心 
+ AC azimuth comprator 方位比较器 
+ AC-3 杜比数码环绕声系统 
+ AC-3 RF 杜比数码环绕声数据流（接口） 
+ ACC Acceleration 加速 
+ Accel 渐快＊加速 
+ Accent 重音＊声调 
+ Accentuator 预加重电路 
+ Access 存取＊进入＊增加＊通路 
+ Accessory 附件（接口）＊配件 
+ Acryl 丙基酰基 
+ Accompaniment 伴奏＊合奏＊伴随 
+ Accord 和谐＊调和 
+ Accordion 手风琴 
+ ACD automatic call distributor 自动呼叫分配器 
+ ACE audio control erasing 音频控制消磁 
+ A-Channel A（左）声道 
+ Acoumeter 测听计 
+ Acoustical 声的＊声音的 
+ Acoustic coloring 声染色 
+ Acoustic image 声像 
+ Across 交叉＊并行＊跨接 
+ Across frequency 交叉频率＊分频频率 
+ ACST access time 存取时间 
+ Active 主动的＊有源的＊有效的＊运行的 
+ Active crossover 主动分频＊电子分频＊有源分频 
+ Active louDSPerker 有源音箱 
+ Armstrong MOD 阿姆斯特朗调制 
+ ARP azimuth reference pulse 方位基准脉冲 
+ Arpeggio 琶音 
+ Articulation 声音清晰度＊发音 
+ Artificial 仿……的＊人工的＊手动（控制） 
+ AAD active acoustic devide 有源声学软件 
+ ABC auto base and chord 自动低音合弦 
+ Architectural acoustics 建筑声学 
+ Arm motor 唱臂唱机 
+ Arpeggio single 琶音和弦＊分解和弦 
+ ARL aerial 天线 
+ ASC automatic sensitivity control 自动灵敏度控制 
+ ASGN Assign 分配＊指定＊设定 
+ ASP audio signal processing 音频信号处理 
+ ASS assembly 组件＊装配＊总成 
+ ASSEM assemble 汇编＊剪辑 
+ ASSEM Assembly 组件＊装配＊总成 
+ Assign 指定＊转发＊分配 
+ Assist 辅助（装置） 
+ ASSY accessory 组件＊附件 
+ AST active servo techonology 有源伺服技术 
+ A Tempo 回到原速 
+ Astigmatism methord 象散法 
+ B 
+ B band 频带 
+ B Bit 比特＊存储单元 
+ B Button 按钮 
+ Babble 多路感应的复杂失真 
+ Back 返回 
+ Back clamPINg 反向钳位 
+ Back drop 交流哼声＊干扰声 
+ Background noise 背景噪声＊本底噪声 
+ Backing copy 副版 
+ Backoff 倒扣＊补偿 
+ Back tracking 补录 
+ Back up 磁带备份＊支持＊预备 
+ Backward 快倒搜索 
+ Baffle box 音箱 
+ BAL balance 平衡＊立体声左右声道音量比例＊平衡连接 
+ Balanced 已平衡的 
+ Balancing 调零装置＊补偿＊中和 
+ Balun 平衡=不平衡转换器 
+ Banana jack 香蕉插头 
+ Banana bin 香蕉插座 
+ Banana pin 香蕉插头 
+ Banana plug 香蕉插头 
+ Band 频段＊ 
+ Band pass 带通滤波器 
+ Bandwidth 频带宽＊误差＊范围 
+ Band 存储单元 
+ Bar 小节＊拉杆 
+ BAR barye 微巴 
+ Bargraph 线条 
+ Barrier 绝缘（套） 
+ Base 低音 
+ Bass 低音＊倍司（低音提琴） 
+ Bass tube 低音号＊大号 
+ Bassy 低音加重 
+ BATT battery 电池 
+ Baud 波特（信息传输速率的单位） 
+ Bazooka 导线平衡转接器 
+ BB base band 基带 
+ BBD Bucket brigade device 戽链器件（效果器） 
+ B BAT Battery 电池 
+ BBE 特指BBE公司设计的改善较高次谐波校正程度的系统 
+ BC balanced current 平衡电流 
+ BC Broadcast control 广播控制 
+ BCH band chorus 分频段合唱 
+ BCST broadcast （无线电）广播 
+ BD board 仪表板 
+ Beat 拍＊脉动信号 
+ Beat cancel switch 差拍干扰消除开关 
+ Bel 贝尔 
+ Below 下列＊向下 
+ Bench 工作台 
+ Bend 弯曲＊滑音 
+ Bender 滑音器 
+ BER bit error rate 信息差错率 
+ BF back feed 反馈 
+ BF Backfeed flanger 反馈镶边 
+ BF Band filter 带通滤波器 
+ BGM background music 背景音乐 
+ Bias 偏置＊偏磁＊偏压＊既定程序 
+ Bidirectional 双向性的＊8字型指向的 
+ Bifess Bi-feedback sound system 双反馈系统 
+ Big bottom 低音扩展＊加重低音 
+ Bin 接收器＊仓室 
+ BNG BNC连接器（插头、插座）＊卡口同轴电缆连接器 
+ Binaural effect 双耳效应＊立体声 
+ Binaural synthesis 双耳合成法 
+ Bin go 意外现象 
+ Bit binary digit 字节＊二进制数字＊位 
+ Bitstream 数码流＊比特流 
+ Bit yield 存储单元 
+ Bi-AMP 双（通道）功放系统 
+ Bi-wire 双线（传输、分音） 
+ Bi-Wring 双线 
+ BK break 停顿＊间断 
+ BKR breaker 断电器 
+ Blamp 两路电子分音 
+ Blanking 关闭＊消隐＊断路 
+ Blaster 爆裂效果器 
+ Blend 融合（度）、调和、混合 
+ Block 分程序＊联动＊中断 
+ Block Repeat 分段重复 
+ Block up 阻塞 
+ Bloop （磁带的）接头噪声＊消音贴片 
+ BNC bayonet connector 卡口电缆连接器 
+ Body mike 小型话筒 
+ Bond 接头＊连接器 
+ Bongo 双鼓 
+ Boom 混响＊轰鸣声 
+ Boomy 嗡嗡声（指低音过强） 
+ Boost 提升（一般指低音）＊放大＊增强 
+ Booth 控制室＊录音棚 
+ Bootstrap 辅助程序＊自举电路 
+ Both sides play disc stereo system 双面演奏式唱片立体声系统 
+ Bottoming 底部切除＊末端切除 
+ Bounce 合并 
+ Bourclon 单调低音 
+ Bowl 碗状体育场效果 
+ BP bridge bypass 电桥旁路 
+ BY bypass 旁通 
+ BPC basic pulse generator 基准脉冲发生器 
+ BPF band pass filter 带通滤波器 
+ BPS band pitch shift 分频段变调节器 
+ BNC bayonet connector 卡口电缆连接器 
+ Body mike 小型话筒 
+ Bond 接头＊连接器 
+ Bongo 双鼓 
+ Boom 混响＊轰鸣声 
+ Boomy 嗡嗡声（指低音过强） 
+ Boost 提升（一般指低音）＊放大＊增强 
+ Booth 控制室＊录音棚 
+ Bootstrap 辅助程序＊自举电路 
+ Bottoming 底部切除＊末端切除 
+ Bounce 合并 
+ Bourclon 单调低音 
+ Bowl 碗状体育场效果 
+ BP bridge bypass 电桥旁路 
+ BY bypass 旁通 
+ BPC basic pulse generator 基准脉冲发生器 
+ BPF band pass filter 带通滤波器 
+ BPS band pitch shift 分频段变调节器 
+ BR bregister 变址寄存器 
+ BR Bridge 电桥 
+ Break 中止（程序）＊减弱 
+ Breathing 喘息效应 
+ B.Reso base resolve 基本解析度 
+ Bridge 桥接＊电桥＊桥＊（乐曲的）变奏过渡 
+ Bright 明亮（感） 
+ Brightness 明亮度＊指中高音听音感觉 
+ Brilliance 响亮 
+ BRKRS breakers 断路器 
+ Broadcast 广播 
+ BTB bass tuba 低音大喇叭 
+ BTL balanced transformer-less 桥式推挽放大电路 
+ BTM bottom 最小＊低音 
+ BU backup nuit 备用器件 
+ Bumper 减震器 
+ Bus 母线＊总线 
+ Busbar 母线 
+ Buss 母线 
+ Busy 占线 
+ BUT button 按钮＊旋钮 
+ BW band width 频带宽度＊带度 
+ BYP bypass 旁路 
+ By path 旁路 
+ BZ buzzer 蜂音器 
+ C 
+ C cathode 阴极＊负极 
+ C Cell 电池 
+ C Center 中心 
+ C Clear 清除 
+ C Cold 冷（端） 
+ CA cable 电缆 
+ Cable 电缆 
+ Cabinet 小操纵台 
+ CAC coherent acoustic coding 相干声学编码 
+ Cache 缓冲存储器 
+ Cal calando 减小音量 
+ CAL Calendar 分类 
+ CAL Caliber 口径 
+ CAL Calibrate 标准化 
+ CAL Continuity accept limit 连续性接受极限 
+ Calibrate 校准＊定标 
+ Call 取回＊复出＊呼出 
+ Can 监听耳机＊带盒 
+ CANCL cancel 删除 
+ CANCL Cancelling 消除 
+ Cancel 取消 
+ Cannon 卡侬接口 
+ Canon 规则 
+ Cap 电容 
+ CaPACitance Mic 电容话筒 
+ Capacity 功率＊电容量 
+ CAR carrier 载波＊支座＊鸡心夹头 
+ Card程序单＊插件板 
+ Cardioid 心型的 
+ CATV cable television 有线电视 
+ Crispness 脆声 
+ Category 种类＊类型 
+ Cartridge 软件卡＊拾音头 
+ Carrkioid 心型话筒 
+ Carrier 载波器 
+ Cart 转运 
+ Cartridge 盒式存储器＊盒式磁带 
+ Cascade 串联 
+ Cassette 卡式的＊盒式的 
+ CAV constant angular velocity 恒角速度 
+ Caution 报警 
+ CBR circuit board rack 电路板架 
+ CC contour correction 轮廓校正 
+ CCD charge coupLED device 电荷耦合器件 
+ CD compact disc 激光唱片 
+ CDA current dumping amplifier 电流放大器 
+ CD-E compact disc erasable 可抹式激光唱片 
+ CDG compact-disc plus graphic 带有静止图像的CD唱盘 
+ CD constant directional horn 恒定指向号角 
+ CDV compact disc with video 密纹声像唱片 
+ CE ceramic 陶瓷 
+ Clock enable 时钟启动 
+ Cell 电池＊元件＊单元 
+ Cellar club 地下俱乐部效果 
+ Cello 大提琴 
+ CEMA consumer eleCTRonics 
+（美国）消费电子产品制造商协会 
+ CENELEC connector 欧洲标准21脚AV连接器 
+ Cent 音分 
+ Central earth 中心接地 
+ CES consumer electronic show （美国）消费电子产品展览会 
+ CF center frequency 中心频率 
+ Cross fade 软切换 
+ CH channel 声道＊通道 
+ Chain 传输链＊信道 
+ Chain play 连续演奏 
+ Chamber 密音音响效果＊消声室 
+ CHAN channel 通道 
+ Change 交换 
+ Chapter 曲目 
+ Chaper skip 跳节 
+ CHAE character 字符＊符号 
+ Characteristic curve 特性曲线 
+ Charge 充电 
+ Charger 充电器 
+ Chase 跟踪 
+ Check 校验 
+ CHC charge 充电 
+ CH - off 通道切断 
+ Choke 合唱 
+ Choose 选择 
+ Chromatic 色彩＊半音 
+ Church 教堂音响效果 
+ CI cut in 切入 
+ CIC cross interleave code 交叉隔行编码 
+ CIRC circulate 循环 
+ Circuit 电路 
+ CL cancel 取消 
+ Classic 古典的 
+ Clean 净化 
+ CLR clear 归零 
+ Click 嘀哒声 
+ Clip 削波＊限幅＊接线柱 
+ CLK clock 时钟信号 
+ Close 关闭＊停止 
+ CLS 控制室监听 
+ Cluster 音箱阵效果 
+ CLV ceiling limit value 上限值 
+ CMP compact 压缩 
+ CMPT compatibility 兼容性 
+ CMRR common mode rejection ratio 共模抑制比 
+ CNT count 记数＊记数器 
+ CNTRL central 中心＊中央 CO carry out 定位输出 
+ Coarse 粗调 
+ Coax 同轴电缆 
+ Coaxial 数码同轴接口 
+ Code 码＊编码 
+ Coefficient 系数 
+ Coincident 多信号同步 
+ Cold 冷的＊单薄的 
+ Color 染色效果 
+ COM comb 梳状（滤波） 
+ COMB combination 组合音色 
+ COMBI combination 组合＊混合 
+ COMBO combination 配合＊组合 
+ Combining 集合＊结合 
+ COMM communication 换向的＊切换装置 
+ Command 指令＊操作＊信号 
+ COMMON 公共的＊公共地端 
+ Communieation speed 通讯速度选择 
+ COMP comparator 比较器 
+ COMP compensate 补偿 
+ Compact 压缩 
+ Compander 压缩扩展器 
+ Compare 比拟 
+ Compatibility 兼容 
+ Compensate 补偿 
+ Complex 全套设备 
+ Copmoser 创意者＊作曲者 
+ Compressor 压缩器 
+ COMP-EXP 压扩器 
+ Compromise （频率）平衡 
+ Computer 计算机＊电脑 
+ CON concentric cable 同轴电缆 
+ CON console 操纵台 
+ CON controller 控制器 
+ Concentric 同轴的＊同心的 
+ Concert 音乐厅效果 
+ Condenser Microphone 电容话筒 
+ Cone type 锥形（扬声器） 
+ CONFIG 布局＊线路接法 
+ Connect 连接＊联络 
+ CORR correct 校正＊补偿＊抵消 
+ Configuration 线路布局 
+ Confirmation 确认 
+ Consent 万能插座 
+ Console 调音台 
+ Consonant 辅音 
+ Constant 常数 
+ CONT continuous 连续的（音色特性） 
+ CONT control 控制＊操纵 
+ Contact 接触器 
+ Content 内容 
+ Continue 连续＊继续 
+ Continue button 两录音卡座连续放音键 
+ Contour 外形＊轮廓＊保持 
+ Contra 次八度 
+ Contrast 对比度 
+ Contribution 分配 
+ Controlled 可控的 
+ Controller 控制器 
+ CONV conventional 常规的 
+ CONV convert 变换 
+ CONV convertible 可转换的 
+ Copy 复制 
+ Correlation meter 相关表 
+ Coupler 耦合 
+ Cover 补偿 
+ Coverage 有效范围 
+ CP clock pulse 时钟脉冲 
+ CP control program 控制程序 
+ CPU 中央处理器 
+ CR card reader 卡片阅读机 
+ CRC cyclic redundancy check 循环冗余校验 
+ Create 建立＊创造 
+ Crescendo 渐强或渐弱 
+ Crispness 清脆感 
+ CRM control room 控制室 
+ CROM control read only memory 控制只读存储器 
+ Crossfader 交叉渐变器 
+ Cross-MOD 交叉调制 
+ Crossover 分频器＊换向＊切断 
+ Cross talk 声道串扰＊串音 
+ Crunch 摩擦音 
+ C/S cycle/second 周/秒 
+ CSS content scrambling system 内容加密系统 
+ CST case style tape 盒式磁带 
+ CT current 电流 
+ CTM close talking microphone 近讲话筒 
+ CU counting unit 计数单元 
+ Cue 提示＊选听 
+ Cue clock 故障计时钟 
+ Cueing 提示＊指出 
+ Cursor 指示器＊光标 
+ Curve （特性）曲线 
+ Custom 常规 
+ CUT 切去＊硬切换 
+ D 
+ D double 双重的＊对偶的 
+ D drum 鼓＊磁鼓 
+ DA delayed action 延迟作用 
+ D/Adigital/analog 数字/模拟 
+ DAB digital audio broadcasting 数字音频广播 
+ Damp 阻尼 
+ DASH digital audio stationar head 数字固定磁头 
+ Dashpot 缓冲器＊减震器 
+ DAT digital audio tape 数字音频磁带＊数字录音机 
+ DATA 数据 
+ DATAtron 数据处理机 
+ DATE 日期 
+ DB(dB) decibel 分贝 
+ DB distribution 分线盒 
+ DBA decibel asolute 绝对分贝 
+ DBA decibel adjusted 调整分贝 
+ DBB dynamic bass boost 动态低音提升 
+ DBK decibels referred to one kilowatt 千瓦分贝 
+ DBm decibel above one milliwatt in 600 ohms 毫瓦分贝 
+ DBS direct broadcast satellite 直播卫星 
+ DBX 压缩扩展式降噪系统 
+ DC distance controlled 遥控器 
+ DCA digital command assembly 数字指令装置 
+ DCE data circuit terminating equipment 数据通讯线路终端设备 
+ DCF digital comb filter 数字梳状滤波器 
+ DCH decade chorus 十声部合唱 
+ DCP date central processor 数据中心处理器 
+ DD direct drive 直接驱动 
+ DD dolby digital 数字杜比 
+ DDC direct digital control 直接数字控制 
+ DDS digital dynamic sound 数字动态声 
+ DDT data definition table 数据定义表 
+ Dead 具有强吸声特性的房间的静寂 
+ DEC decay 衰减＊渐弱＊余音效果 
+ Decibel 分贝 
+ Deck 卡座＊录音座＊带支加的＊走带机构 
+ Deemphasis 释放 
+ Deep reverb 纵深混响 
+ De-esser 去咝声器 
+ DEF defeat 消隐＊静噪 
+ Delete 删除 
+ Delivery end 输入端 
+ DEMO demodulator 解调器 
+ Demo 自动演奏 
+ Demoder 解码器 
+ Density 密度＊声音密度效果 
+ Detune 音高微调＊去谐 
+ DepFin 纵深微调 
+ Depth 深度 
+ Denoiser 降噪器 
+ Design 设计 
+ Destroyer 抑制器 
+ DET detector 检波器 
+ Deutlichkeit 清晰度 
+ DEV device 装置＊仪器 
+ DEX dynamic exciter 动态激励器 
+ DF damping factor 动态滤波器 
+ DFL dynamic filter 动态滤波 
+ DFS digital frequency synthesizer 数字频率合成器 
+ DI data input 数据输入 
+ Diagram 图形＊原理图 
+ Dial 调节度盘 
+ Difference 不同＊差别 
+ DIFF differential 差动 
+ Diffraction 衍射＊绕射 
+ Diffuse 传播 
+ Diffusion 扩散 
+ DIG digit 数字式 
+ Digital 数字的＊数字式＊计数的 
+ Digitalyier 数字化装置 
+ DIM digital input module 数字输入模块 
+ DIM diminished 衰减＊减半音 
+ Dimension 范围＊密度＊尺寸＊（空间）维＊声像宽度 
+ Din 五芯插口（德国工业标准） 
+ DIN digital input 数字输入 
+ DIR direct 直接的＊（调音台）直接输出＊定向的 
+ Direct box 指令盒＊控制盒 
+ Direct sound 直达声 
+ Directory 目录 
+ Direction 配置方式 
+ Directional 方向＊指向的 
+ Directivity 方向性 
+ DIS display 显示器 
+ DISC disconnect 切断＊开路 
+ DISC discriminator 鉴相器 
+ Disc 唱盘＊唱片＊碟 
+ Disc holder 唱片抽屉 
+ Disc recorder 盘片式录音机 
+ Dischage 释放＊解除 
+ Disco 迪斯科＊迪斯科音乐效果 
+ Discord 不谐和弦 
+ Disk 唱盘＊碟 
+ DISP display 显示器＊显示屏 
+ Dispersion 频散特性＊声音分布 
+ Displacement 偏转＊代换 
+ Distortion 失真＊畸变 
+ DIST distance 距离＊间距 
+ DIST district 区间 
+ Distributer 分配器＊导向装置 
+ DITEC digital television camera 数字电视摄像机 
+ Dim 变弱＊变暗＊衰减 
+ DIV divergence 发散 
+ DIV division 分段 
+ DIV divisor 分配器 
+ Diversity 分集（接收） 
+ Divider 分配器 
+ Divx 美国数字视频快递公司开发的一种每次观看付费的DVD 
+ DJ Disc Jocker 唱片骑士 
+ DJ dust jacket 防尘罩 
+ DJ delay 延迟 
+ DLD dynamic linear drive 动态线性驱动 
+ DLLD direct linear loop detector 直接线性环路检波器 
+ DME digital multiple effector 数字综合效果器 
+ DMS date multiplexing system 数据多路传输系统 
+ DMS digital multiplexing synchronizer 
+ 数字多路传输同步器 
+ DMX data multiplex 数据多路（传输） 
+ DNL dynamic noise limiter 动态噪声抑制器 
+ DNR dynamic noise reduction 动态降噪电路 
+ DO dolly out 后移 
+ DO dropout 信号失落 
+ DOB dolby 杜比 
+ DOL dynamic optimum loudness 动态最佳响度 
+ Dolby 杜比＊杜比功能 
+ Dolby Hx Pro dolby Hx pro headroom extension system 杜比Hx 
+动态余量扩展系统 
+ Dolby NR 杜比降噪 
+ Dolby Pro-logic 杜比定向逻辑 
+ Dolby SR-D dolby SR digital 杜比数字频谱记录 
+ Dolby Surround 杜比环绕 
+ Dome loudspeaker 球顶扬声器 
+ Dome type 球顶（扬声器） 
+ DOP doppler 多普勒（响应） 
+ Double 加倍＊双＊次八度 
+ Doubler 倍频器＊加倍器 
+ Double speed 倍速复制 
+ D.OUT direct output 直接输出 
+ Down 向下＊向下调整＊下移＊减少 
+ DPCM differential pulse code modulation 差动脉冲调制 
+ DPD direct pure MPX decoder 直接纯多路解调器 
+ DPL dolby pro logic 杜比定向逻辑 
+ DPL duplex 双工＊双联 
+ DPLR doppler 多普勒（系统） 
+ D.Poher effect 德.波埃效应 
+ Dr displacement corrector 位移校准器＊同步机 
+ DR distributor 分配器 
+ DR drum 磁鼓 
+ Drain 漏电＊漏极 
+ DRAM direct read after write 一次性读写存储器 
+ Drama 剧场效果 
+ DRAW 只读追忆型光盘 
+ Dr.Beat 取字时间校准器 
+ DRCN dynamic range compression and normalization 动态范围压缩和归一化 
+ Drive 驱动＊激励 
+ Dr.Rhythm 节奏同步校准器 
+ DRPS digital random program selector 数字式节目随机选择器D 
+ Drum 鼓 
+ Drum machine 鼓机 
+ Dry 干＊无效果声＊直达声 
+ DS distortion 失真 
+ DSC digital signal converter 数字信号转换器 
+ DSL dynamic super loudness 低音动态超响度＊重低音恢复 
+ DSM dynamic scan modulation 动态扫描速度调制器 
+ DSP digital signal processor 数字信号处理器 
+ DSP display simulation program 显示模拟程序 
+ DSP digital sound processor 数字声音处理器 
+ DSP digital sound field processor 数字声场处理器 
+ DSP dynamic speaker 电动式扬声器 
+ DSS digital satellite system 数字卫星系统 
+ DT data terminal 数据终端 
+ DT data transmission 数据传输 
+ DTL direct to line 直接去线路 
+ DTS digital theater system 数字影剧院系统 
+ DTS digital tuning system 数字调谐系统 
+ DTV digital television 数字电视 
+ Dual 对偶＊双重＊双 
+ Dub 复制＊配音＊拷贝＊转录磁带 
+ Dubbing mixer 混录调音台 
+ Duck 按入＊进入 
+ Dummyload 假负载 
+ DUP Duplicate 复制（品） 
+ Duplicator 复制装置＊增倍器 
+ Duration 持续时间＊宽度 
+ Duty 负载＊作用范围＊功率 
+ Duty cycle 占空系数＊频宽比 
+ DUX duplex 双工 
+ DV device 装置＊器件 
+ DVC digital video cassette 数字录象带 
+ DVD digital video disc 数字激光视盘 
+ DX 天线收发开关＊双重的＊双向的 
+ DYN dynamic 电动式的＊动态范围＊动圈式的 
+ Dynamic filter 动态滤波（特殊效果处理）器 
+ Dynamic Microphone 动圈话筒 
+ Dynamic range 动态范围 
+ Dynode 电子倍增器电极 
+ E 
+ E early warning 预警 
+ E earth 真地＊接地 
+ E error 错误＊差错（故障显示） 
+ EA earth 地线＊真地 
+ EAR early 早期（反射声） 
+ Earphone 耳机 
+ Earth terminal 接地端 
+ EASE electro-acooustic simulators for engineers 
+＊计算机电声与声学设计软件 
+ Eat 收取信号 
+ EBU european broadcasting union 欧洲广播联盟 
+ EC error correction 误差校正 
+ ECD electrochomeric display 电致变色显示器 
+ Echo 回声＊回声效果＊混响 
+ ECL extension zcompact limitter 扩展压缩限制器 
+ ECM electret condenser microphone 驻极体话筒 
+ ECSL equivalent continuous sound level 等级连续声级 
+ ECT electronec controlled transmission 电控传输 
+ ED edit editor 编辑＊编辑器 
+ Edit 编辑 
+ Edge tone 边棱音 
+ EDTV enhanced definition television 
+（一种可兼容高清晰度电视） 
+ E-DRAW erasable direct after write 可存可抹读写存储器 
+ EE errors excepted 允许误差 
+ EFF effect efficiency 效果＊作用 
+ Effector 操纵装置＊效果器 
+ Effects generator 效果发生器 
+ EFM 8/14位调制法 
+ EFX effect 效果 
+ EG envelope generator 包络发生器 
+ EIA electronec industries association （美国）电子工业协会 
+ EIAJ electronic industries association Japan 日本电子工业协会 
+ EIN einstein 量子摩尔（能量单位） 
+ EIN equivalent input noise 等效输入噪声 
+ EIO error in operation 操作码错误 
+ Eject 弹起舱门＊取出磁带（光盘）＊出盒 
+ EL electro luminescence 场致发光 
+ ELAC electroacoustic 电声（器件） 
+ ELEC electret 驻极体 
+ Electret condenser microphone 驻极体话筒 
+ ELF extremely low frequency 极低频 
+ ELEC electronec 电子的 
+ Electroacoustics 电声学 
+ EMI electro magnetic interference 电磁干扰 
+ Emission 发射 
+ EMP emphasispo 加重 
+ EMP empty 空载 
+ Emphasis 加重 
+ EMS emergency switch 紧急开关 
+ Emulator 模拟器＊仿真设备 
+ EN enabling 启动 
+ Enable 赋能＊撤消禁止指令 
+ Encoding 编码 
+ End 末端＊结束＊终止 
+ Ending 终端＊端接法＊镶边 
+ ENG engineering 工程 
+ Engine 运行＊使用 
+ ENG land 工程接地 
+ Enhance 增强＊提高＊提升 
+ ENS ensemble 合奏 
+ ENS envelope sensation 群感 
+ Eensemble 合奏 
+ Eensemble 合奏 
+ ENT enter 记录 
+ Enter 记入＊进入＊回车 
+ Entering 插入＊记录 
+ Entry 输入数据＊进入 
+ ENV envelope 包络线 
+ Envelopment 环绕感 
+ EOP electronic overload protection 电子过载保护 
+ EOP end of program 程序结束 
+ EOP end output 末端输出 
+ EOT end of tape 磁带尾端 
+ EP extend playing record 多曲目唱片 
+ EP extended play 长时间放录＊密录 
+ EPG edit pulse generator 编辑脉冲发生器 
+ EPS emergency power supply 应急电源 
+ EQ equalizer 均衡器＊均衡 
+ EQ equalization 均衡 
+ EQL equalization 均衡 
+ Equal-loudness contour 等响曲线 
+ Equipped 准备好的＊已装备 
+ Equitonic 全音 
+ Equivalence 等效值 
+ ER erect 设置 
+ ER error 错误＊误差 
+ ERA earphone 耳机 
+ Eraser 抹去＊消除 
+ Erasing 擦除＊清洗 
+ Erasure 抹音 
+ Erase 消除＊消 
+ Er early 早期的 
+ ERCD extended resolution CD 扩展解析度CD 
+ EREQ erect equalizer 均衡器（频点）位置（点频补偿电路的中点频率）调整 
+ ERF early reflection 早期反射（声） 
+ Ernumber 早期反射声量 
+ Error 错误＊出错＊不正确 
+ ES earth swith 接地开关 
+ ES electrical stimulation 点激励 
+ Escqpe 退出 
+ ETER eternity 无限 
+ Euroscart 欧洲标准21脚AV连接器 
+ Event 事件 
+ EVF envelope follower 包络跟随器（音响合成装置功能单元） 
+ EX exciter 激励器 
+ EX exchange 交换 
+ EX expanding 扩展 
+ EXB expanded bass 低音增强 
+ EXC exciter 激励器 
+ EXCH exchange 转换 
+ Exclusive 专用的 
+ Excursion 偏移＊偏转＊漂移＊振幅 
+ EXP expender 扩展器＊动态扩展器 
+ EXP export 输出 
+ Exponential horn tweeter 指数型高音号角扬声器 
+ Expression pEDAl 表达踏板（用于控制乐器或效果器的脚踏装置） 
+ EXT extend 扩展 
+ EXT exterior 外接的（设备） 
+ EXT external 外部的＊外接的 
+ EXT extra 超过 
+ EXTN extension 扩展＊延伸（程控装置功能单元） 
+ Extract 轨道提出 
+ EXTSN extension 扩展＊延伸（程控装置功能单元） 
+ F 
+ F fast 快（速） 
+ F feedback 反馈 
+ F forward 向前 
+ F foot 脚踏（装置） 
+ F frequency 频率 
+ F function 功能 
+ Ffactor 因子＊因素＊系数＊因数 
+ Fade 衰减（音量控制单元） 
+ Fade in-out 淡入淡出＊慢转换 
+ Fader 衰减器 
+ Fade up 平滑上升 
+ Failure 故障 
+ Fall 衰落＊斜度 
+ Faraday shield 法拉第屏蔽＊静电屏蔽 
+ FAS full automatic search 全自动搜索 
+ Fast 快速（自动演奏装置的速度调整钮） 
+ Fastener 接线柱＊闭锁 
+ Fat 浑厚（音争调整钮） 
+ Fattens out 平直输出 
+ Fault 故障＊损坏 
+ Fader 衰减器＊调音台推拉电位器（推子） 
+ Fading in 渐显 
+ Fading out 渐显 
+ False 错误 
+ Fancier 音响发烧友 
+ Far field 远场 
+ FatEr 丰满的早期反射 
+ FB feedback 反馈＊声反馈 
+ FB fuse block 熔丝盒 
+ F.B fiver by 清晰 
+ FBO feedback outrigger 反馈延伸 
+ FCC FEDeral communications commission （美国）联邦通信委员会 
+ FD fade depth 衰减深度 
+ FD feed 馈入信号 
+ FDR fader 衰减器 
+ FeCr 铁铬磁带 
+ Feed 馈给＊馈入＊输入 
+ Feeder 馈线 
+ Feed/Rewind spool 供带盘/倒带盘 
+ Ferrite head 铁氧体磁头 
+ F.&B. forward and back 前后 
+ FET field effect technology 场效应技术 
+ FF flip flop 触发器 
+ FF fast forward 快进 
+ FG flag generator 标志信号发生器 
+ FI fade in 渐进 
+ Field 声场 
+ Field pickup 实况拾音 
+ File 文件＊存入＊归档＊数据集＊（外）存储器 
+ Fill-in 填入 
+ FILT filter 滤波器 
+ Final 韵母 
+ Fine 微调 
+ Fingered 多指和弦 
+ Finger 手指＊单指和弦 
+ FIN GND 接地片 
+ Finish 结束＊修饰 
+ FIP digital frequency display panel 数字频率显示板 
+ FIR finite-furation impulse response 有限冲激响应（滤波器） 
+ Fire 启动 
+ Fix 确定＊固定 
+ Fizz 嘶嘶声 
+ FL fluorescein 荧光效果 
+ Flange 法兰音响效果＊镶边效果 
+ Flanger 镶边器 
+ Flanging 镶边 
+ Flash 闪光信号 
+ Flat 平坦＊平直 
+ Flat noise 白噪声 
+ Flat tuning 粗调 
+ Flex 拐点 
+ FLEX flexible cord 软线＊塞绳 
+ FLEX frequency level expander 频率扩展器 
+ FLEXWAVE flexible waveguide 可弯曲波导管 
+ FLG flanger 镶边器 
+ Flip 替换＊调换 
+ Floating 非固定的＊悬浮式的 
+ Floppy disc 软磁盘 
+ FLTR filter 滤波器 
+ Fluorescent display 荧光显示器 
+ Flute 长笛 
+ Flutter 一种放音失真＊脉冲干扰＊颤动 
+ FLW follow 跟踪＊随动 
+ FLY 均衡器 
+ FM fade margin 衰落设备 
+ FM frequency modulation 调频广播 
+ FM/SW telescopic rod aerial 调频/短波拉杆天线 
+ FO fade out 渐隐 
+ Focus 焦点＊中心点 
+ Foldback 返送＊监听 
+ Foot(board) 脚踏板（开关控制） 
+ Fomant 共振峰 
+ Force 过载＊强行置入 
+ Format 格式＊格式化＊规格＊（储存器中的）信息安排 
+ Forward 转送 
+ FPR floating point routine 浮点程序 
+ FPR full power response 全功率响应 
+ FR frequency 频率 
+ FR frequency response 频率响应 
+ Frame 画面＊（电视的）帧 
+ Frames 帧数 
+ Free 剩余＊自由 
+ Free echoes 无限回声（延时效果处理的一种） 
+ Free edge 自由折环（扬声器） 
+ FREEQ frequency 频率 
+ F.Rew fast rewind 快倒 
+ Freeze 凝固＊声音骤停＊静止 
+ Frequency divider 分频器 
+ Frequency shifter 移频器＊变频器 
+ Fricative 擦音 
+ Front 前面的＊正面的 
+ Front balance 前置平衡 
+ Front process 前声场处理 
+ FRU field replaceable unit 插件＊可换部件 
+ FS frequency shift 频移＊变调 
+ FS full short 全景 
+ FT facility terminal 设备（输出）端口 
+ FT fine tuning 微调 
+ FT foot 脚踏装置 
+ FT function tist 功能测试 
+ FT frequency tracke 频率跟踪器 
+ FTG fitting 接头＊配件 
+ FTS faverate track selection 最佳声迹选择 
+ Full 丰满＊饱和 
+ Full auto 全自动 
+ Full effect recording 全效果录音 
+ Full range 全音域＊全频 
+ G 
+ G gate 门（电路） 
+ G ground 接地 
+ GA general average 总平均值 
+ Gain 增益＊提衰量 
+ Game 卡拉OK音响效果 
+ Gamut 音域 
+ Gap 间隔＊通道 
+ Gate 噪声门＊门＊选通 
+ Gated Rev 选通混响（开门的时间内有混响效果） 
+ GB 吉字节 
+ Gear 风格＊格调 
+ GEN generator （信号）发生器 
+ General 综合效果 
+ Generator 信号发生器 
+ GEQ graphie equalizier 图示均衡器 
+ GD ground 接地 
+ Girth 激励器的低音强度调节 
+ Glide strip 滑奏条（演奏装置） 
+ GLLS-sando 滑降（演奏的效果） 
+ Global 总体设计 
+ GM genertal MIDI 通用乐器数字接器 
+ GND ground 地线＊接地端 GP group 编组 
+ GPR general purpose receiver 通用接收机 
+ GPI general purpose interface 通用接口设备 
+ Govern 调整＊控制＊操作＊运转 
+ GR group 组合 
+ Gramophone 留声机＊唱机 
+ Graphic equalizer 图示均衡器＊图表均衡器 
+ GRND ground 接地 
+ Groove 光盘螺旋道的槽 
+ Group 编组（调音台）＊组 
+ Growler 线圈短路测试仪 
+ GT gate 门＊噪声门 
+ GT gauge template 样板 
+ GTE gate 门（电路） 
+ GTR gate reverb 门混响 
+ Guard 保护＊防护装置 
+ GUI graphical user interface 图形用户接口 
+ Guitar 吉它 
+ Guy 拉线 
+ Gymnasium 体育馆效果 
+ Gyrator 回旋器 
+ H 
+ HQAD high quality audio disc 高品位音频光盘 
+ HR handing room 操作室 
+ HR high resistance 高阻抗（信号端子的阻抗特性） 
+ HRTF head-related transfer function 人脑相关转换功能 
+ HS head set 头戴式耳机 
+ HS hybrid system 混合系统 
+ HT home theater 家庭影院＊家庭剧场 
+ Hubrid 混合网络＊桥接岔路 
+ Hum 交流哼声＊交流低频（50Hz）噪声 
+ Hum and Noise 哼杂声＊交流噪声 
+ Humidity 湿度＊湿气 
+ HUT homes using TV 家用电视 
+ HVDS Hi-visual dramatic sound 高保真现场感音响系统 
+ HX headroom extension 
+（系统）（一种杜比降噪系统）＊净空延伸 
+ H horizonal 水平（状态） 
+ H hot 热（平衡信号端口的“热端”） 
+ Hall 厅堂效果 
+ Handle 手柄＊控制 
+ HAR harmonec 谐波 
+ Hard knee 硬拐点（压限器） 
+ Harmonic 谐波 
+ Harmonic distortion 谐波失真 
+ Harmonic Generator 谐波发生器 
+ Harmonize （使）和谐＊校音 
+ Harmony 和谐 
+ Harp 竖琴 
+ Hash 杂乱脉冲干扰 
+ Hass effect 哈斯效应 
+ HD harmonic distortion 谐波失真 
+ HDCD high definition compatible digital 高分辨率兼容性数字技术 
+ HDTV hight definiton television 高清晰度电视 
+ Head 录音机磁头＊前置的＊唱头 
+ Head azimuth 磁头方位角 
+ Head gap 磁头缝隙 
+ Headroom 动态余量＊动态范围上限＊电平储备 
+ Headphone 头戴式耳机 
+ Headset 头带式耳机 
+ Heavy metel 重金属 
+ HeiFin 垂直微调 
+ Hearing 听到＊听觉 
+ Heat sink 散热板 
+ Help （对程序的）解释 
+ HF high frequency 高频＊高音 
+ Hi hign 高频＊高音 
+ HI band 高频带 
+ Hi-end 最高品质＊顶级 
+ Hi-BLEND 高频混合指示 
+ High cut 高切 
+ High pass 高通 
+ Highway 总线＊信息通道 
+ HI-FI high fidelity 高保真＊高保真音响 
+ Hiss 咝声 
+ Hi-Z 高阻抗 
+ HL half reverb 大厅混响 
+ Hoghorn 抛物面喇叭 
+ Hoisting 提升 
+ Hold 保持＊无限延续＊保持时间 
+ Holder 支架＊固定架 
+ Hold-off 解除保持 
+ Home 家庭＊实用 
+ Home theatre 家庭影院 
+ Horizontal 水平的＊横向的 
+ Horn 高音号角＊号筒＊圆号 
+ Hornloaded 号角处理 
+ Hot 热端＊高电位端 
+ Hour 小时 
+ Howling 啸叫声 
+ Howlround 啸叫 
+ H.P headphone 头戴式耳机 
+ HPA haas pan allochthonous 哈斯声像漂移 
+ HPF high pass filter 高通滤波器 
+ HQ high quality 高质量＊高品位 
+ Hyper Condenser 超心型的 
+ HZ hertz 赫兹 
+ H hard 硬的音响效果特征 
+ I 
+ IC integrated circuit 集成电路 
+ ID identification 识别 
+ ID identify 标志 
+ Idle 空载的＊无效果的 
+ IDTV improved definition television 改进清晰度电视系统 
+ IEC international electrical commission 国际电工委员会 
+ IEEE institute of electrical&electronic engineers 电气及电子工程师学会 
+ IF intermidiate frequency 中频的 
+ I/F interface 接口 
+ IHF the institute of high fidelity 高保真学会 
+ IIR infinite-duration impulse response 无限冲激响应 
+ IKA Interactive knee adapt 互调拐点适配＊软拐点 
+ I/O input/output 输入/输出 
+ IM impulse modulation 脉冲调剂 
+ IM image 影象 
+ IMD intermodulation distortion 互调失真 
+ IMP impedance 阻抗 
+ IMP impedence 阻抗 
+ IMP interface message processor 接口信息处理机 
+ Improper 错误的 
+ IN inductor 感应器 
+ IN input 输入 
+ IN inverter 反演器＊倒相器 
+ Inactive 暂停＊失效的 
+ INC incoming 引入线 
+ INC increase 增高 
+ INCOM intercom 内部通话（系统） 
+ In phase 同相 
+ IND index 索引＊标志＊指数 
+ IND indicator 指示器 
+ Indicator 显示器＊指示器 
+ Indirect 间接 
+ Inductance 电感 
+ Induction 感应＊引入 
+ INF infinite 无限大 
+ Infrared 红外线的 
+ Infra-red remote control 红外线遥控 
+ INH inhibit 抑制＊禁止 
+ Initial 声母＊初始化 
+ In/Out 加与不加选择（相当于旁路）开关＊接通开关 
+ Infinite 无限的＊非限定的 
+ Increase 增加 
+ Initial Delay 早期延时＊初次延时 
+ Inject 注入＊置入 Inlead 引入线 
+ Inlet 引入线＊插入 In-line 串联的＊在线的 
+ INP input 输入（端口） 
+ INV invertor 倒相器＊翻转器＊反相器＊变换器 
+ Inverse 倒相 
+ Inverseve Rev 颠倒式混响效果 
+ Invert 轮流＊反转 
+ I/O in/out 输入/输出（接口）＊信号插入接口 I/O 
+ instead of 替代 
+ IPE integrated parameter editing 综合参量编辑 
+ IR infrared sensor 红外线传感器 
+ IROA impulse response optimum algorithm 脉冲响应最佳算法 
+ IS information separators 信息分隔字符 
+ IS in service 不中断服务 
+ ISO International Standardization Organization 国际标准化组织 
+ Input 输入 
+ Indicator 显示器＊指示灯 
+ INS insert 插入（信号）＊插入接口 
+ INSEL input select 输入选择 
+ INST instant 直接的＊实时 
+ INST institution 建立＊设置 
+ INST instrument 仪器＊乐器 
+ Instrument 乐器 
+ Insulator 绝缘体 
+ INT intake 进入＊入口 INT intensity 强度＊烈度 
+ INT interior 内部 
+ INT interrupter 断路器 
+ Integrated 组合的 
+ Integrated amplifier 前置-功率放大器＊综合功率放大器 
+ Intelligate 智能化噪声门 
+ Intelligibility 可懂度 
+ Interactie 相互作用＊人机对话＊软拐点 
+ Interval 音高差别 
+ Integrated 集成的＊完全的 
+ Intercom 对讲＊通话 
+ Interconnect 互相联系 
+ Inter cut 插播 
+ Interface 接口＊对话装置 
+ Interference 干扰＊干涉＊串扰 
+ Interim 临时的＊过渡特征 
+ Intermodulation 互调＊内调制 
+ Intermodulation distortion 交越失真 
+ Internal 内存＊对讲机 
+ Internally 在内部＊内存 
+ Inter parameter 内部参数 
+ Interval 音高差别 
+ Interplay 相互作用＊内部播放 
+ Interval shifter 音歇移相器 
+ Intimacy 亲切感 
+ Intonation 声调 
+ INTRO introduction 介绍＊浏览＊引入＊（乐曲的）前奏 
+ INTRO sacn 曲头检索（节目搜索） 
+ INTRO sensor 曲头读出器（节目查询） 
+ Introskip 内移＊内跳 
+ ISS insertion test signal 插入切换信号 
+ ISS interference suppression switch 干扰抑制开关 
+ ITS insertion test signal 插入测试信号 
+ IV interval 间隔搜索 
+ IV inverter 倒相器 
+ IWC interrupted wave 断续波 
+ IX index 标盘＊指针＊索引 
+ J 
+ J jack 插孔＊插座＊传动装置 
+ Jack socket 插孔 
+ Jaff 复干扰 
+ Jagg club 爵士乐俱乐部效果 
+ Jam 抑制＊干扰 
+ Jamproof 抗干扰的 
+ Jazz 爵士 
+ JB junction box 接线盒 
+ JIS 日本工业标准 
+ Job 事件＊作业指令＊成品 
+ Jog 旋盘缓进＊慢进＊突然转向 
+ Joker 暗藏的不利因素＊含混不清 
+ Joystick 控制手柄＊操纵杆＊摇杆 
+ JSS jet servo system 喷射伺服式重低音扬声器系统 
+ Jumper 跳线＊条形接片 
+ Justify 调整 
+ K 
+ K key 按键 
+ Karaoke 卡拉OK＊无人伴奏乐队 
+ KB key board 键盘＊按钮 
+ Kerr 克耳效应＊（可读写光盘）磁光效应 
+ Key 键＊按键＊声调 
+ Keyboard 键盘＊按钮 
+ Key control 键控＊变调控制 
+ Keyed 键控 
+ Key EQ 音调均衡 
+ kHz Kiloherts 千赫兹 
+ Kikll 清除＊消去＊抑制＊衰减＊断开 
+ Killer 抑制器＊断路器 
+ Kit 设定 
+ Knee 压限器拐点 
+ Knob 按钮＊旋钮＊调节器 
+ KP key pulse 键控脉冲 
+ KTV karaoke TV 拌唱电视（节目） 
+ KX key 键控 
+ L 
+ Lesion 故障＊损害 
+ Leslie 列斯利（一种调相效果处理方式） 
+ LEV level 电平 
+ LEVCON level control 电平控制 
+ Level 电平＊水平＊级 
+ LF low frequency 低频＊低音 
+ LFB local feedback 本机反馈＊局部反馈 
+ LFE lowfrequency response 低频响应 
+ LFO low frequency oscillation 低频振荡信号 
+ LGD long delay 长延时 
+ LH low high 低噪声高输出 
+ LH low noise high output 低噪声高输出磁带 
+ L.hall large hall 大厅效果 
+ Lift 提升（一种提升地电位的装置） 
+ Lift up 升起 
+ Labial 唇音 
+ L left 左（立体声系统的左声道） 
+ L line 线路 
+ L link 链路 
+ L long 长（时间） 
+ LA laser 激光（镭射） 
+ Lag 延迟＊滞后 
+ Lamp 灯＊照明灯 
+ Land 光盘螺旋道的肩＊接地＊真地 
+ Lap dissolve 慢转换 
+ Lapping SW 通断开关 
+ Large 大＊大型 
+ Large hall 大厅混响 
+ Larigot 六倍音 
+ Laser 激光（镭射） 
+ Latency 空转＊待机 
+ Launching 激励＊发射 
+ Layer 层叠控制＊多音色同步控制 
+ LCD liquid crystal display 液晶显示 
+ LCR left center right 左中右 
+ LD laser vision disc 激光视盘＊影碟机 
+ LD load 负载 
+ LDP input 影碟输入 
+ LDTV low definition television 低分辨率数字电视 
+ LCD projictor 液晶投影机 
+ Lead 通道＊前置＊输入 
+ Lead-in 引入线 
+ Leak 漏泄 
+ Learn 学习 
+ LED light emitting deivce 发光辐射器＊发光器件 
+ LED litht emitting diode 发光二极管（显示） 
+ Legato 连奏 
+ Length 字长＊范围 
+ Lento 慢板 
+ Light switch 照明开关 
+ M 
+ M main 主信道 
+ M master 主控 
+ M memory 存储器 
+ M mix 混频 
+ M moderate 适中的 
+ M music 音乐 
+ Mac manchester auto code 曼切斯特自动码 
+ MADI musical audio digital interface 音频数字接口 
+ Main 主要的＊主线＊主通道＊电源 
+ MAG magnet 磁铁 
+ Magnetic tape 磁带 
+ Magnetic type recorder 磁带录音机 
+ Main 电源＊主要的 
+ Major chord 大三和弦 
+ Make 接通＊闭合 
+ Makeup 接通＊选配 
+ Male 插头＊插件 
+ MAN manual 手动的＊手控 
+ Manifold technology （音箱）多歧管技术 
+ Manipulate 操作＊键控 
+ MANP 手动穿插 
+ Manual 手动的＊人工的＊手册＊说明书 
+ March 进行曲 
+ Margin （电平）余量 
+ Mark 标志＊符号＊标记 
+ Mash 压低＊碾碎 
+ Masking 掩蔽 
+ Master 总音量控制＊调音台＊主盘＊标准的＊主的＊总路 
+ MAR Matrix 矩阵＊调音台矩阵（M）＊编组 
+ Match 匹配＊适配＊配对 
+ Matrix quad system 矩阵四声道立体声系统 
+ MAX maximum 最大＊最大值 
+ MB megabytes 兆字节 
+ Mb/s megabytes per second 兆字节/秒 
+ MC manual control 手控＊手动控制 
+ MCH multiple chorus 多路合唱 
+ MCR multiple cjhannel amplification reverberation 多路混响增强 
+ MD mini disc 光磁盘唱机＊小型录放唱盘 
+ MD moving coil 动圈式 
+ MDL modulation delay 调制延时 
+ MEAS measure 测量＊范围＊测试 
+ Measure 乐曲的＊小节 
+ Meas edit 小结编辑 
+ MECH mechanism 机械装置 
+ MED medium 适中＊中间（挡位） 
+ Medley 混合 
+ Mega bass 超重低音 
+ MEM memory 存储器＊存储＊记忆 
+ Member 部件＊成员 
+ Menu 菜单＊目录＊表格 
+ MEQ mono equalizer 单声道均衡器 
+ Merge 合并＊汇总＊融合 
+ Meridian 顶点的＊峰值 
+ Measure 小结 
+ Megaphone 喇叭筒 
+ Mel 美（音调单位） 
+ Menu 菜单＊节目表 
+ Message 通信＊联系 
+ Metal 金属（效果声） 
+ Metal tape 金属磁带 
+ Meter 电平表＊表头＊仪表 
+ Metronome 节拍器 
+ MF matched filter 匹配滤波器 
+ MF maveform 波形 
+ MF middle frequency 中频＊中音 
+ MFL multiple flange 多层法兰（镶边）效果 
+ MFT multiplprogramming with a fixed number of tasks 
+ 
+ MIC micro 微米 
+ MIC microphone 话筒＊麦克风＊传声器 
+ Michcho level 话筒混响电平 
+ Micro monitor amp 微音监听放大器 
+ MICROVERB microcomputer reverb 微处理机混响 
+ MID middle 中间的＊中部的＊中音＊中频 
+ MIDI music instrument digital interface 电子乐器数字接口 
+ MIN minimum 最小＊最小值 
+ MIN minute 分钟 
+ MIND master integrated network device 一体化网络总装置 
+ Minitrim 微调 
+ Minitrue 微机调整 
+ Minor chord 小三和弦 
+ Mismatch 失配 
+ Mistermination 终端失配 
+ MIX 混合＊音量比例调节 
+ Mixer 调音台＊混音器 
+ MM moving magnet 动磁式 
+ MNTR monitor 监控器 
+ MNOS metallic nitrogen - oxide semiconductor 金属氮氧化物半导体 
+ MO magneto optical 可抹可录型光盘 
+ MOC magnet oscillator circuit 主振荡电路 
+ MOD mode 状态＊方式＊模式 
+ MOD model 型号＊样式＊模型＊典型的 
+ MOD modulation 调制 
+ Mode 状态＊（乐曲的）调式 
+ Mode select 方式选择 
+ Mush 噪声干扰＊分谐波 
+ Mush area 不良接收区 
+ Music 音乐＊乐曲 
+ Music center 音乐中心＊组合音响 
+ Music conductor 音乐控制器 
+ MUT mute 静音＊哑音＊噪声控制 
+ Muting 抑制＊消除 
+ Multiple 复合的＊多项的＊多重的 
+ MV mean value 平均值 
+ MV multivibrator 多谐振荡器 
+ MW medium wave 中波 
+ MXE mono exciter 单声道激励器 
+ MXR mixer 混频器 
+ MODEM modulator demodulator 调制解调器 
+ Moderato 中速 
+ Modifier 调节器 
+ Modify 修改＊调试＊摩机＊限定 
+ Modulator 调制器 
+ Module 模块＊组件＊因数＊程序片 
+ MOL maximum output level 最大输出电平 
+ MON monitor 监听＊监视器 
+ MONI 监听＊调音师 
+ Monkey chatter 串音＊邻频干扰＊交叉失真 
+ Mono 单声道＊单一 
+ Monopit 单声变调 
+ Motor cue 换机信号＊切换信号 
+ MOS metal-oxide semiconductor 金属氧化物半导体 
+ Motor 马达＊电机 
+ Movie theater 影剧院 
+ Moviola 声画剪辑机 
+ Moving-iron loudspeaker 舌簧扬声器 
+ MPEG motion picture coding experts group 
+图像编码专家组＊数字声像信息压缩标准 
+ MPF master pre feed 主控前馈送 
+ MPH multiple phaser 多级移相器 
+ MPO maximum power output 最大输出功率 
+ MPO music power output 音乐输出功率 
+ MPR master pre return 主控前返回 
+ MPS main power switch 主电源开关 
+ MPS manual phase shifter 手控相移器 
+ MPS microphone power supply 话筒电源 
+ MPS microprocessor system 多用途取样系统 
+ MPX multiplex 多路传输＊多次重复使用＊多路转换＊复合 
+ MPX multiplexer 多路转换器＊多路调制器 
+ MPX VCO 多路解调压控振荡 
+ MQSS music quick select system 快速音乐选择系统 
+ MR memory read 存储器读出 
+ MS manual search 手动检索 
+ MS middle side 一种迭合录音技术 
+ MS(MSEC) millisecond 毫秒 
+ MSSS multi space ound system 多维空间声系统 
+ MST(MSTR) master 主控 
+ MSW microswitch 微动开关 
+ MT multi track 多轨 
+ MTD multiple delay 多次延时 
+ MTR magnetic tape redorder 磁带记录器 
+ MTR micro-wave transmission 微波传输 
+ MTR motor 电动机 
+ MTS multi-channel television sound 多声道电视伴音 
+ MTV music TV 音乐电视（节目） 
+ MUF maximum usable frequency 最高可用频率 
+ MULT multiplier 倍增器＊光电倍增管 
+ Multi 并联的＊多路系统 
+ Multidimention control 声场展宽控制＊多维控制 
+ Multiband 多频段 
+ Multi-echo 多重回声 
+ Multi plex 多路传声 
+ Multitap 转接＊（多插头）插座 
+ Multiple channel 多通道 
+ Multiple effects 综合效果处理装置 
+ Multiple jack 多眼插座 
+ Multisound 原始音色 
+ MUPO maximum undistorted power output 最大不失真输出功率 
+ MUSE multiple sub-Nyquist sompling encoding 多重奈奎斯特取样编码 
+ MIDI 格式文件 
+ MIDI 信息＊全过程 
+ N 
+ Name 名称＊命名 
+ Natural 自然的＊天然的＊固有的 
+ Naught 零＊无价值 
+ NC network controller 网络控制器 
+ NC numberical control 数字控制 
+ NC needle chatter 唱针噪声 
+ Nazard 三倍音 
+ Near field 近场 
+ NEG negative 负＊阴（极） 
+ NEMO 实况转播 
+ NEP noise equivalent power 噪声等效功率 
+ News 人声广播音响效果＊新闻 
+ Next 下一个＊唱片跳回下曲键 
+ NF NFB negative feedback 负反馈 
+ NG no go 不通＊不工作 
+ NG noise generator 噪声发生器 
+ Ni-Cd nickel-cadmium 镍镉充电电池 
+ NICAM near instantaneous companded audio multiplex 
+＊电视丽音＊数字多路伴音系统 
+ NIL 零点 
+ Noise 噪音 
+ Noise gate 噪声门＊选通器 
+ Noise suppressor 噪声抑制器 
+ NOM nominal 标称的＊额定的 
+ Non-direction 全向的＊无指向性的 
+ Nonieme 九倍音 
+ NOP no operation 无操作指令 
+ NOR(NORM) normal 普通的＊标准的＊正常的＊常规的 
+ NORM 平均值 
+ Normal frequency 简正（共振）频率 
+ Notch 触点 
+ Note 符号＊注释＊音调＊音律＊记录 
+ Notice 注意事项＊简介 
+ NO number 数字＊号码 
+ NR noise ratio 噪声比 
+ NR noise reduction 降噪＊噪声消除 
+ NR number 数字＊编号 
+ NAB national association of broadcasters 国家广播工作者协会 
+ NTSC national television system committee 
+美国）国家电视系统委员会＊正交平衡调幅制彩色电视制式 
+ Null 空位＊无效的 
+ NV noise variance 噪声方差 
+ NVT network virtual terminal 网络虚拟终段 
+ N normal 正常＊普通＊标准 
+ N negative 阴极＊负极 
+ O 
+ ohm 欧姆（电阻的单位） 
+ Oboe 双簧管 
+ O/C open circuit 开路 
+ OCK operation control key 操作控制键 
+ OCL output capacitorless 无输出电容功率放大器 
+ OCL output control line 输出控制线 
+ OCT octave 倍频程＊八度音 
+ OD operations directive 操作指示 
+ OD optical density 光密度 
+ OD over drive 过激励 
+ OFC office 职能 
+ OFC oxygen-free cupreous 无氧铜导线 
+ Off 关闭＊断开 
+ Offering 填入＊提供 
+ Offset （移相）补偿＊修饰＊偏置 
+ OFHC oxygen free high conductivity copper 高导电率无氧铜导线 
+ Ohm 欧姆 
+ OK 确认 
+ OL on line 在线＊连机 
+ OL over load 过载 
+ Omnidirectional 无方向性的 
+ On 开＊接通 
+ Once 一次＊单次 
+ One-way relay play 单向替换放音 
+ Online 联机＊联线 
+ Only 仅仅＊只 
+ On-mike 正在送话＊靠近话筒 
+ One touch 单触连接 
+ OP output 信号输出 
+ OP over pressure 过压 
+ Open 打开＊开启 
+ Opera 歌剧 
+ Operate 操作＊运转 
+ Operation 操作＊运转 
+ Operator 操纵器＊合成器算子 
+ Optical 数码光缆接口 
+ Optical master 激光器 
+ Option 选型＊选择 
+ Optimum 最佳状态 
+ OPTOISO optoisolator 光隔离器 
+ Or 或＊或者 
+ ORC optimum recording current 磁头最佳记录电流 
+ Orchestra 管弦乐器 
+ Organ 风琴＊元件 Original 原（程序）＊初始（化） 
+ OSC oscillator 振荡器＊试机信号（一千赫兹） 
+ OSC oscillograph 示波器 
+ OSS optimal stereo signal 最佳立体声信号 
+ OTL 无输出变压器功率放大器 
+ OTR one-touch time recording 单触式定时录像 
+ OTR operation temperature range 工作温度范围 
+ OTR overload time relay 过载限时继电器 
+ OUT output 输出 
+ Outage 中断 
+ Out-burst 脉冲＊闪光＊闪亮 
+ Outcome 结果＊输出＊开始 
+ Out let 输出端子＊引出线 
+ Outline 轮廓线 
+ Out phase 反向 
+ OVDB 重叠录音 
+ Overall 轮廓＊总体上 
+ Overcut 过调制 
+ Over drive 过激励 
+ Overdubs 叠录 
+ Overflow 信号过强 
+ Overhang （激励器）低音延伸调节 
+ Overhearing 串音 
+ OVLD over lode 过载＊超负荷 
+ Over sampling 过取样 
+ Overtone 泛音 
+ OVWR overwrite 覆盖式录音 
+ P 
+ Proximity effect 近距离效果 
+ Prwsnt 突出感 
+ PS position 位置＊状态 
+ PSC program switching center 节目切换中心 
+ PSL phase sequence logic 相位顺序逻辑 
+ PSM peak selector memory 峰值选择存储器 
+ PSM phase shifter module 移相模件 
+ PSM pitch shift modulation 交频调制 
+ PST posterrior 后面 
+ PST preset 预置 
+ PSU power supply 供电 
+ Psychological acoustics 心理声学 
+ PT power transformer 电源变压器 
+ PT portable 便携式 
+ PT pulse timer 脉冲计时器 
+ PTD pan turnout piece delay 声像分支延时 
+ PTE private 专用的 
+ PTN pattern 模式＊样式 
+ PTN procedure turn 程序变化 
+ PU pickup 拾音 
+ PU power unit 电源设备 
+ Pull 拉＊趋向 
+ Pull-in 接通＊引入 
+ Pumping 抽气效应 
+ Pure tone 纯音 
+ Purging 净化 
+ Push 推＊按钮＊压 
+ Push-pull 推挽式的 
+ PWM pulse width modulation 脉冲宽度调制 
+ PWR power 电源＊功率 
+ PZM pressure zone microphone 压力区话筒 
+ P.P.Panoramic potentiometer 全景电位器 
+ P-P peak-Peak 峰-峰值 
+ PPD pingpong delay 乒乓延时 
+ PPG programme pulse generator 脉冲程序发生器 
+ PPI peak program indicator 峰值显示器 
+ PPI programmable peripheral interface 程序外部接口 
+ PPL peak program level 峰值音量电平 
+ PPM peak program meter 峰值节目表＊峰值音量表 
+ PPM pulse phase modulation 脉冲相位调制 
+ Pr power rate 功率比 
+ PR program register 程序寄存器 
+ PRC precision 精确＊精细＊精密度 
+ Pre 前置＊预备＊之前 
+ Pre-delay 预延迟 
+ Pre echoes 预回声 
+ Pre emphasis 预加重 
+ PREAMP preamplifier 前置放大器 
+ Preselection 预选 
+ Presence 临场效果＊现场感 
+ Present 当前日期＊现时＊即时 
+ Preserve 保存＊维持 
+ Preset 预置＊预调 
+ Press 按＊压 
+ PREV 唱片跳回上曲键 
+ Preview 预演 
+ Previous 向前＊前位的 
+ Prime 同度音 
+ PRM parameter 参量 
+ PRO professional 专业的 
+ Probe 传感器 
+ Process 处理＊加工 
+ PROCR processor 处理器 
+ PROG program 程序＊基本音色 
+ Program cartridge 程序盒式存储器 
+ Program set indicator 电脑选曲节目选定指示 
+ Prosody 韵律 
+ Protect 保护＊防护 
+ Protocol 通信协议 
+ POSTF 后置（万分） 
+ POT potentiometer 电位器＊电位计 
+ Potable 便携的＊小型的 
+ Power 电源＊功率 
+ Power amplifier 功率放大器 
+ Power dump 切断电源 
+ Power out 功率输出 
+ Piower supply 电源供给 
+ PP peak power 峰值功率 
+ PP personal preference 个人预置 
+ P plug 插头 
+ P positive 正极 
+ P pulse 脉冲 
+ P power 功率 
+ PA preamplifier 前置放大器 
+ PA public address 扩声 
+ Pace 步速＊级数 
+ Packed cell 积层电池 
+ Packing 图像压缩 
+ P-I-P picture in picture 画中画 
+ PAD 定值衰减＊衰减器＊（打击乐大按键的）鼓垫 
+ Padding 统调＊使……平直 
+ Paddle 开关＊门电路 
+ Page 一面＊（存储器）页面地址＊寻找 
+ Pair （立体声）配对＊比较 
+ PAL phase alternation line 逐行倒相彩色电视制式 
+ PAM pulse amplitude modulation 脉幅调制 
+ PAM pole amplitude modulation 极点调幅 
+ Pan panorama 声像调节＊定位＊全景 
+ Panel 面板＊操纵板＊配电盘 
+ Panotrope 电唱机 
+ Paper cone 纸盆 
+ Parallel 并联＊平衡 
+ PAR(PARAM) parameter 参数＊参量＊系数 
+ Parametric 参量的 
+ Part 声部数＊部分 
+ Partial tone 分音＊泛音 
+ PAS public address system 扩声系统 
+ PASC precision adaptive subband coding 精密自适应分段编码 
+ Pass 通过 
+ Passive 被动＊被动分频＊功率分频 
+ Paste 粘贴 
+ PAT pattern 模仿＊型号＊图谱特性曲线 
+ Patch 临时＊插接线＊用连接电缆插入 
+ Patch bay 配电盘 
+ Patch board 插线板 
+ Patching 临时接线＊补偿 
+ Patching cord system 调度塞绳系统 
+ Path 信号通路 
+ Pattern 样式＊方式＊样板 
+ Pause 暂停＊间歇＊停顿 
+ PB playback 播放＊重放 
+ PB push button 按钮开关 
+ PBASS proper bass active supply system 最佳低音重放系统 
+ PBC play back control 重放控制＊回放控制 
+ PC perceptual coding 感觉编码 
+ PC program control 程序控制 
+ PCB printed circuit board 印刷线路板 
+ PCC phase correlation cardioid microphone 相位相关心形话筒 
+ PCM precision capacitor microphone 精密电容话筒 
+ PCM pulse code modulation 脉冲编码调制 
+ PCM card 波形扩充卡（增加新音色） 
+ PC-COC pure copper continuous casting 连续铸造纯铜导线 
+ PD power divider 功率分配器 
+ PD power doubler 功率倍增器 
+ PD program directive 程序指令 
+ PD pro-digital 专业数字接口 
+ PD protective device 保护装置 
+ PDM pulse density modulation 脉冲密度调制 
+ PDP plasma display panel 等离子显示板 
+ PDS partitioned data set 分区数据组 
+ PDS programmable data system 程序可控系统 
+ PDS power distribution system 配电系统 
+ PE phase encoding 相位编码 
+ PE program execution 程序执行 
+ Peak 峰值＊削波（灯） 
+ Peak and DIP 峰式频率欧洲标准21脚AV接口 
+ Pedal 踏板 
+ PEM pulse edge molulation 脉冲边缘调制 
+ Pentatonic 五声调式 
+ PEQ parameter equalizer 参量均衡器 
+ PERC percussion 打击乐器 
+ PERCUS 打击乐器 
+ Performance 施行＊表演＊表现＊演出 
+ Permalloy head 坡莫合金磁头 
+ Permutator 转换开关＊变换器 
+ Perspective 立体感 
+ Perform 执行＊完成＊施行 
+ Period 周期 
+ PFL per fader louder speaker 衰减前监听＊预监听 
+ PG pulse generator 脉冲发生器 
+ PGM program 节目＊程序 
+ Pgmno/Step 节目号码/步骤 
+ Pgmtime 节目时间 
+ PH phase 相位 
+ PH phasemeter 相位仪 
+ PHA phase 相位 
+ Phantom 幻像电源＊幻象供电 
+ Phase 相位＊状态 
+ Phase REV 倒相（电路） 
+ Phaser 移相器 
+ Phasing 相位校正＊移相效果 
+ Phon 方（响度单位） 
+ Phone 耳机＊耳机插口 
+ Phoneme 音素 
+ Phono(phonograph) 唱机 
+ PHS phaser 移相器 
+ Physiological acoustics 生理声学 
+ PI phase inversion 倒相 
+ PIA peripheral interface adapter 外围接口适配器 
+ Pianotron 电子钢琴 
+ Piano 钢琴 
+ Piano whine 钢琴鸣声 
+ Piccolo 短笛 
+ Pick-up 拾音器＊唱头＊传感器 
+ Piezoelectric polymer earphone 压电聚合物耳机 
+ Pilot 指示器＊调节器 
+ Pilot jack 监听插孔 
+ Pin 针型插口＊不平衡音频插口 
+ PIN position indercator 位置指示器 
+ PIN positive-intrinsic-negative 正-本-负 
+ Pinboard 转接板＊插接板 
+ Ping 爆鸣声＊声响 
+ Pink noise 粉红噪声 
+ Pipe 管＊笛 
+ Pitch 音高＊音调 
+ Pitch shifter 变调器＊移频器 
+ PK peak 削波（灯）＊峰值 
+ PL parental lock 防止误动锁定 
+ PL phase lock 相位锁定＊锁相 
+ PL pilot lamp 指示灯 
+ PL pre listen 预监听＊衰减前监听 
+ Place 置入＊起作用 
+ Placement 连接方式 
+ Plate 金属板效果＊板混响器 
+ Play 播放＊重放＊弹奏 
+ Playback 播放 
+ Player 唱机＊放音器 
+ Plesoelectric supper tweeters 压电式超高音喇叭 
+ PLL phase locked loop 锁相回路 
+ PLR plate reverb 金属板混响 
+ Plug 插头 
+ Plunge 切入 
+ PMPO peak music power output 音乐峰值功率输出 
+ PN pseudo noise 伪随机噪声 
+ Pneumatic loudspeaker 气动扬声器 
+ PNM pulse number modulation 脉冲数调制＊脉冲密度调制 
+ Point 接点＊位置＊交汇点 
+ Point soure 点声源 
+ Pointer 指示器＊指针 
+ Polarity 极性 
+ Poly 复音＊多路＊多 
+ Pop 突然＊爆破音＊（话筒近讲时的）气息噗噗声 
+ Pop filter 噗声滤除器 
+ Pops 流行音乐＊流行音乐音响效果 
+ Portamento 滑音 
+ Ported reflex 预放映 
+ Position 位置＊状态 
+ POSITVE positive 阳极 
+ Q 
+ quality factor 品质因数＊Q值＊频带宽度 
+ QD quadrant 象限 
+ QD quick disconnect 迅速断开 
+ Quack 嘈杂声 
+ QUAD quadriphonic 四声道立体声 
+ Quadrature 正交＊90度相位差＊精调 
+ Quality 音质＊声音 
+ QUANT quantitative 定量的 
+ QUANT quantize 量化＊数字化 
+ Quantizing 量化 
+ QUARTz synthesized FM/AM digital tuner 
+/调幅数字调谐器 
+ Quartz PLL frequency synthesizer 晶体销相环频率 
+ Quaver 八分音符 
+ Quench 断开＊抑制 
+ Quint 五度＊次三倍音 
+ Quiver 颤动声 
+ R 
+ Ribbon microphone 铝带话筒＊压力带话筒 
+ Richness 丰满度 
+ Rhythm 节奏 
+ Right 右声道＊垂直的＊适当的 
+ Ring 环＊大三芯环端＊冷端接点＊振铃 
+ Ring mode 声反馈临界振铃振荡现象 
+ Rit 渐慢 
+ RF radio frequency 射频＊高频 
+ RM regular matrix record 正规矩阵式四路唱片 
+ RM ring modulation 环形调制器 
+ RMD fing mode decoupling （音箱）振铃退耦技术 
+ RMR room reverb 房间混响 
+ RMS random music sensor 随机音乐探测器 
+ Rms root mean square 有效值 
+ RND random 随机的 
+ RNG ring 振铃 
+ Roadrack 专业器材架 
+ Rock 摇滚乐、摇滚乐音响效果 
+ Rod antenna 拉杆天线 
+ RODS reverberation on demand system 混响请求系统 
+ Rolloff 高低频规律性衰减＊滚降 
+ ROM read only memory 只读存储器 
+ Room 房间 
+ Rose 接线盒 
+ Rotary 旋转 
+ RT60 Reverberation time 混响时间 
+ Rough 粗的＊粗糙的＊近似的 
+ Routing 混合母线选择 
+ RP record playback 录放 
+ RP repeater 增音转发器 
+ RPLC replace 替换 
+ RSS Roland sound space processing system 罗兰声空间处理系统 
+ RT rael time 实时分析 
+ RT recovery time 恢复时间 
+ RT return 返回 
+ RTA real time analyzer 实时分析（仪）＊频谱分析（仪） 
+ RTS real time simulator 实时模拟 
+ RTS real time system 实时系统 
+ RTY rotary 旋转（扬声器） 
+ Rubber corrugated ri loudspeaker 橡皮边扬声器 
+ Ruby stylus 红宝石唱针 
+ Rumba 伦巴 
+ Rumble （低频）隆隆声 
+ RV rendezvous 会聚点 
+ RVS reverse shift 反向移动 
+ RZ return to zero 归零 
+ Reversal 反相＊相反＊反转＊改变极性 
+ Reverse 回复＊翻转＊反混响 
+ Revert 复原＊返回 
+ Review 检查＊复查＊重复 
+ Revolve 旋转＊循环 
+ REW rewind 快速倒带 
+ RF radio frequency 射频 
+ RF reception fair 接收情况良好 
+ RFI RF interface 射频接口 
+ RFI RF interferece 射频干扰 
+ Revcolor 混响染色声 
+ RPS direct program 直接节目搜寻＊卡拉OK搜索 
+ R(RD)radio 射频 
+ R(RD)read 读取 
+ R receiver 接收机 
+ R register 寄存器 
+ R right 右声道 
+ Rack 机架＊支架＊机柜＊规定宽度＊震动声 
+ Radiation 辐射 
+ Radio 无线电＊惦音机＊射频 
+ Ram random access memory 随机存储器 
+ RAM 填入＊装入 
+ RAN random 随机的＊任意的＊无规则的 
+ Range 范围＊最大提衰量＊幅度 
+ Rate 比率＊速率＊变化率＊频率 
+ Ratio 压缩比＊扩展比＊比＊系数 
+ RCA radio corporation of America 美国无线电公司 
+ RCA jack 莲花接口 
+ R-CH 右声道 
+ R-DAT rotary head-DAT 旋转磁头式数字录音机 
+ RE rack earth 外壳接地 
+ RE reset 复位 
+ RE right end 右端 
+ Reactance 电抗 
+ Readjustment 重调 
+ Ready 预备＊准备完毕 
+ Rear 背面＊后部＊后置 
+ REC recording 录音＊记录＊录制 
+ Recall 招回＊调出＊重录 
+ Receiver 接受机＊接受器 
+ Recharge 再充电 
+ Record 记录＊录制＊唱片 
+ Recorder 录音机 
+ Recovery 恢复＊复原 
+ Red 红色 
+ Redo 再执行操作 
+ Reduce 减少＊降低＊缩小 
+ Reduction 压缩＊衰减＊形成 
+ Reecho 回声 
+ REF Reference 说明书＊参考＊基准＊定位 
+ REF Reflection 反射 
+ Refraction 折射 
+ Refresh 恢复 
+ REG register 寄存器 
+ REG regulate 控制＊校准＊调节 
+ REGEN regeneration 再生（混响声阵形成方式）＊正反馈 
+ Rehearsal 排练＊预演 
+ Reject 除去＊滤去 
+ Rejection 抑制 
+ Reinforcement 扩声 
+ Relay 继电器＊重放＊转放 
+ Release 恢复时间＊释放＊断路器 
+ Rename 改名＊命名 
+ Remain 保持＊剩余 
+ REM remote 遥控的＊遥远的＊远距离的 
+ REM removable 可拆装的 
+ REM remove 除去 
+ Remain 余量＊状态保持 
+ Renumber 重写号码 
+ REP repeat 重复＊反复＊重放 
+ Repeat mode 双面反复放音（录音机） 
+ Replacing 替换＊置换＊复位 
+ REQ room equalizer 房间均衡器 
+ Reset 复位＊恢复＊归零＊重复＊重新安装 
+ Resolution 分辨率＊分析 
+ Resonance 共振＊回声 
+ RESP response 响应＊特性曲线＊回答 
+ Resistance 阻抗 
+ Resister 电阻 
+ Resonance 共鸣＊谐振 Rest 休止符＊静止＊停止 
+ Restraint 抑制＊限制器 
+ RET return 返回＊回送 
+ REV reverse 颠倒＊反转 
+ REV reverberation 混响＊残响 
+ Reverb depth control 混响深度控制 
+ RIAA recording industry association of America 美国录音工业协会 
+ S 
+ SAF Safety 安全装置＊保险装置＊保护装置 
+ Safeguard by 防护器 
+ SALT symmetry air load technique 对称空气负载技术 
+ Samba 桑巴 
+ Sample 声音信号样品＊采样＊取样＊抽样 
+ Sampling 抽样＊脉冲调制 
+ SAP second audio program 第二套音频节目 
+ SAT saturate 饱和效果处理 
+ Save 贮存 
+ Save 存储＊保存 
+ Saxphone 萨克司管 
+ Saxophome 顶馈直线天线 
+ SC set clock 置位时钟 
+ SC sigmal control 信号控制 
+ SC subcarrier 副载波 
+ SC system controller 系统控制器 
+ SC scan 扫描 
+ Scale 音阶＊刻度尺标 
+ Scale unit 标度单位＊分频器 
+ Scan 搜索＊记录＊扫描 
+ Scar 激光唱片上的缺陷 
+ SCART connector欧洲标准21脚AV接口 
+ Scattering 散射 
+ Scene 实况＊场面 
+ SCH search 搜索＊寻找 
+ Scheme 设计图＊原理图 
+ SCMS serial copy management system 成套复制管理系统 
+ Screw 螺丝钉 
+ Scrollback 回找 
+ SCH stereochrous 立体声合唱 
+ Schmidt trigger 施密特触发器 
+ Scintillation 闪烁＊调制引起的载频变化 
+ SCMS successive copy manage system 
+（DAT设备中防止多次转录节目的系统） 
+ Scoop 戽斗＊收集器 
+ Scope 范围＊显示器 
+ Scoring 音乐录音 
+ SCR signal to clutter ratio 信噪比 
+ SCR SILicon controlled rectifier 晶闸管整流器 
+ Scraper 刮声器 
+ Screen 屏蔽 
+ SD space division 空间分布 
+ S-DAT stationary head DAT 固定磁头DAT机 
+ SDDS sony dynamic digital sound 索尼动态数字环绕声系统 
+ SDI standard data interface 标准数据接口 
+ SDLC synchronous data link control 同步数据链控制器 
+ SE single end 单端的 
+ SE sound effect 音响效果 
+ SE storage element 存储元件 
+ SE support equipment 支援设备 
+ SEA soond effect amplifier 音响效果放大器 
+ SEA special effects amplifier 特殊效果放大器 
+ Search 搜索＊扫描 
+ Searcher 扫描器 
+ SEC Second 秒＊第二 
+ SECAM sequential color and memory 调频行轮换彩色制式 
+ Section 单元＊环节 
+ Sectoral horm 扇形号筒 
+ Security 保险＊加锁 
+ SED system effectiveness demonstration 系统效果演示 
+ Seek 搜索 
+ SEL selector 选择装置＊寻线器＊转换开关 
+ Select 选择 
+ Selectivity （收音机）选择性 
+ Semi- 半- 
+ Semibreve 全音符 
+ Semioctave 半个八度音 
+ Semit 半音 
+ SEN sensor 传感器 
+ Send 送出＊发送＊发射 
+ SENS Sensitivity 灵敏度 
+ Sense 分辨率 
+ Sensor 传感器 
+ Sentinel 发射器＊传送器 
+ SEP standard electronic package 标准电子组件 
+ SEP system engineering process 系统工程处理 
+ Separator 分离器＊分解器 
+ Septieme 七倍音 
+ SEQ sequencer 音序器＊定序器 
+ SEQ Stereo equalizer 立体声均衡器 
+ Sequence 排序＊序列 
+ Series 系列＊串连 
+ Service 维修＊服务 
+ Servo 伺服机构＊随机系统 
+ Servo motor 伺服马达 
+ SES spatial effect system 立体声空间效果系统 
+ Session 跟随自动伴奏 
+ Set 调整＊设定＊装置＊定位＊接收机 
+ Setout 开始＊准备 
+ Setup 设定＊构成＊菜单＊组合＊调整 
+ SFC sound field compos, er 声场合成装置 
+ SFL stereo flange 立体声法兰镶边 
+ SFS sound field synthesis 声场合成 
+ SG signal generator 信号发生器 
+ SGL signal 信号 
+ S-hall small hall 小型厅堂效果 
+ Shake 震动 
+ Shape 波形＊轮廊 
+ Shaper 整形器＊脉冲成形 
+ Share drum 小军鼓 
+ Sharpness 清晰度＊鲜明度＊锐度 
+ Shelving 滤除＊滤波处理 
+ SHG sub harmonic generator 次（分）谐波发生器 
+ Shield 保护＊屏蔽 
+ Shift 转换＊变调＊移频＊漂移 
+ Shock 冲击 
+ Short 短的 
+ Short gate 短时选通门（混响效果） 
+ Shower 指示器＊显示器 
+ SHUF Shuffle 随机顺序节目播放 
+ Shunt 分路＊并联 
+ SHUTT shuttle 变速搜索＊往复 
+ SI sneak in 淡入 
+ Sibilance 齿音＊咝音 
+ Sibilant 咝音 
+ Sibilation 咝音＊高频声畸变 
+ SICS sound image control system 声像控制系统 
+ Side 边＊面＊侧面＊方面 
+ Side chain 旁链 
+ SIG signal 声音信号 
+ Signature 特征＊音乐的调号 
+ SIF 伴音中频 
+ Silencer 静噪器 
+ Silent 静噪调谐 
+ Simple tone 纯音 
+ Simplex 单工 
+ Simulate 模拟的 
+ Simultaneous 同步＊联立 
+ SINAD signal to noise and distortion ratio 信号对噪声和失真比 
+ Sine wave 正弦波 
+ Single 单＊单次的＊单独的＊单碟 
+ SIP solo in place 独奏入位 
+ SIP standard information package 标准信息包 
+ Siren 旋笛 
+ Size 尺寸 
+ Skew control 扭曲校正＊菱形失真器 
+ Skip 跳跃＊省略 
+ SL signal level 信号电平 
+ Slap 拍打效果 
+ Slap back 山谷回声 
+ Slap reverb 山谷混响效果 
+ Slate 预定＊标记＊（录音调音台）标记开关 
+ Slave 从属的＊从机＊从动的 
+ Sleep 睡眠定时开关＊静止 
+ Sleeve(SLE) 接地点＊袖端＊套 
+ Slew rate 瞬态率 
+ Sliding tone 滑音 
+ Slope 斜率＊坡度＊跨导 
+ Slow 慢速 
+ SLP super long play 超长（三倍）时间播放 
+ Sliding tone 滑音 
+ SLS studio listen 演播室监听 
+ SM sequential machine 时序机 SM signal meter 信号强度计 
+ SM storage mark 存储标志 
+ S/M speech/music 语言/音乐 
+ S/N signal-to-noise radio 信噪比 
+ Small club 小俱乐部效果 
+ Smear 曳尾＊拖尾＊浑浊不清 
+ Smear correction 拖尾校正 
+ SMF Standard MIDI File 标准 
+ SMP sampler 取样器 
+ SMPTE society of motion picture television engineers 
+美国）电影及电视工程师学会 
+ S/N signal/noise 信号/噪声＊信噪比 
+ SND sound 声音＊音响＊伴音 
+ Snake 集体线 
+ Snapshot 片段＊场景状态设置 
+ Snubber 缓冲器＊减震器 
+ SO sneak out 淡出 
+ Socket 插座＊插口 
+ SOFt 软的＊柔和的 
+ Soft click 柔性箝位 
+ Soft knee 软拐点（压限器） 
+ Soft-touch 轻触式 
+ Software 计算机软件 
+ Solo 独唱＊独奏 / 监听 
+ Sone 宋（响度单位） 
+ Song 乐曲 
+ Sound colum 声柱 
+ Sound field 声场 
+ Sound image 声像 
+ Sound intensity 声强 
+ Sound shadow region 声影区 
+ Sound cousole desk 调音台 
+ Source 声源 
+ SOS sound on sound 叠加录音 
+ SP speaker 扬声器 
+ SP speed 速度 
+ SP standard-play 标准走带速度录放 
+ SPA stereo pan allochthonous 立体声声像漂移 
+ Space 间隙＊空间效果 
+ Spaciousness 空间感 
+ ST stereo 立体声＊立体 
+ STI speech transmission index 语言传输系统 
+ Sticks 操作杆＊安置＊卡子 
+ Still 静止 
+ STM send test massage 发送测试信号 
+ STO stand point 位置 
+ STO stereo 立体声 
+ STO stop 停止 
+ STO store 存储＊存储器 
+ STP shielded twisted pnir 屏蔽双绞线 
+ Strike note 击弦音＊撞击声 
+ String instrument 弦乐器 
+ Strip 卸下附属设备＊轨道＊类别 
+ Strobe 选通脉冲＊频闪放电管 
+ Strong 有力的 
+ Structure 装置＊结构 
+ STU Studio 演播室效果 
+ SUB 副＊辅助＊附加＊低音 
+ Subgroup 副＊（调音台的通道集中控制网络）编组 
+ Suboctave 次八度 
+ Subsonic 次声＊超低音 
+ Subwoofer 超低音 
+ Sum 和＊总和＊总数 
+ SUP Supply 电源 
+ Supper 超 
+ Super bass 超低音 
+ Super over drive 超激励 
+ Suppressor 抑制器 
+ Support programs 支援程序 
+ SUR Surround 环绕声＊环绕＊包围 
+ Sustain 保持＊维持 
+ SVP surge voltage protector 浪肖电压保护器 
+ SW signal wire 信号线 
+ SW S-Wite 塞套引线 
+ SW switch 开关＊切换 
+ SW short wave 短波 
+ S/W specification of wiring 布线规格 
+ Swap 交换＊调动（等量齐观）＊调换 
+ Sweep 扫描＊曲线 
+ Swell 增音器 
+ Swing 摆幅＊摇摆舞 
+ Swishing 飕飕声 
+ SX simplex 单工 
+ SXE stereo exciter 立体声激励器 
+ Symphobass 调谐低音系统 
+ Symphonic 交响＊谐音 
+ SPD speed 调制速度 
+ SPDIF sony/philips digital interface 索尼/飞利浦数字接口 
+ SPE speaker 扬声器＊音箱 
+ Special 临时（装置）＊特设的 
+ Specificatin 性能 
+ Spectrum 音域＊频谱 
+ Speech 语言＊语音 
+ Speed 速度＊调制速度 
+ Speed select （录音机）带速选择 
+ SPG severo pulse generator 伺服脉冲发生器 
+ SPH single phase 单相 
+ SPL sound pressure level 声压级 
+ Split 分割＊分配＊等信号区 
+ SPM spiral modulation 螺旋调制 
+ Spot effects 现场效果 
+ Spring 弹簧效果＊弹簧混响器 
+ SPS stereo pitch shift 立体声变调 
+ SPSS self program search system 自动节目搜索系统 
+ Sport 运动场效果 
+ SQ squelch 静噪＊噪声抑制（电路） 
+ SQ stereo quadraphonic record 四声道立体声唱片 
+ Square 广场音响效果 
+ Squawker 中音扬声器 
+ Squeal 啸叫 
+ Squegger 间歇振荡器 
+ Squib drivers 电爆激励器 
+ SR 遥控操作 
+ SR speed ratio 转换速率 
+ SR stabilizeation receiver 稳定接收机 
+ SRL standard recording level 标准录音电平 
+ SRS sound retrieval system 
+（恢复）系统＊是一种利用双声道产生环绕声场的虚拟环绕声方式。 
+ SS starting -point sensor （磁带）始端感应器 
+ SS switch selector 开关选择器 
+ SSG synchronizing signal generator 同步信号发生器＊同步机。 
+ SSLSC solid state logic studio computer固态逻辑录音室计算机系统 
+ ST SAWtooth 锯齿波 
+ ST start 启动＊开始 
+ ST status 状态＊状况 
+ ST stereo 立体声 
+ ST store 存储 
+ Stability 平衡＊稳定性 
+ Stacking 占空系数 
+ Stadium 露天体育场效果 
+ Stage 舞台效果＊级＊阶段 
+ Stand-by 等待＊准备＊备用 
+ Standard 标准＊制式＊规格 
+ Standing wave 驻波 
+ Star 星＊星形＊星号 
+ Start 启动＊开始＊始端 
+ Start Id 起始识别 
+ Static doubling 静态双声 
+ Station 操作台 
+ Status 状态＊状况 
+ ST-BY standey 准备 
+ STD standard 标准＊规格 
+ STD stereo delay 立体声延时 
+ Step 步骤＊级＊档＊阶梯＊步进 
+ Step back 后退 
+ Steer 操纵＊控制 
+ Symphony 交响乐＊交响乐效果 
+ SYN(SYNC)synchronism 同步 
+ SYN synthesizer 合成器 
+ SYNC synchronizer 同步器 
+ Sychro 同步机 
+ Synth 合成 
+ Synthesis 合成＊综合 
+ SYS system 系统＊制式 
+ SYS Ex system exchange 系统交换 
+ T 
+ TRIG trigger 触发＊触发器＊触发脉冲 
+ Trim 调整＊微调＊调谐＊削波 
+ TRK track 音轨 
+ TRK trunk 总线＊母线＊干线 
+ Trouble 故障 
+ Trumpet 小号 
+ TRS time reference system 时间基准系统 
+ TST test 测试 
+ TTY teleltypewriter 遥控打印机＊电传机 
+ Tube 电子管＊真空管 
+ Tune 调谐＊和谐＊调音 
+ Tuner 调谐器 
+ Tunetable （唱盘的）转盘 
+ Tunnel reverb 隧道混响效果 
+ Tupe 处理模式 
+ Turbo distortion 涡轮失真效果 
+ Turntable 电唱盘＊转台 
+ TV television 电视 
+ Tweeter 高音扬声器· 
+ Twin channel 双通道 
+ Two complement 补码 
+ Two way mode 双面轮流放音模式（录音机） 
+ TX transmit 发送＊发射 
+ TX transmitter 发射机 
+ TYP trpe 类型 
+ Typical 标准的＊典型的 
+ TRIG trigger 触发触发器＊触发脉冲 
+ Trim 调整＊微调＊调谐＊削波 
+ TRK track 音轨 
+ TRK trunk 总线＊母线＊干线 
+ Trouble 故障 
+ Trumpet 小号 
+ TRS time reference system 时间基准系统 
+ TST test 测试 
+ TTY teletypewriter 遥控打印机＊电传机 
+ Tube 电子管＊真空管 
+ Tune 调谐＊和谐＊调音 
+ Tuner 调谐器 
+ Tunetable （唱盘的）转盘 
+ Tunnel reverb 隧道混响效果 
+ Tupe 处理模式 
+ Turbo distortion 涡轮失真效果 
+ Turntable 电唱盘＊转台 
+ TV television 电视 
+ Tweeter 高音扬声器 
+ Twin channel 双通道 
+ Two complement 补码 
+ Two way mode 双面轮流放音模式（录音机） 
+ TX transmit 发送＊发射 
+ TX transmitter 发射机 
+ TYP type 类型 
+ Typical 标准的＊典型的 
+ T talk 呼叫＊联络 
+ Tab 防误抹挡片 
+ TACH tachometer 测速器 
+ TADI time assigument digital tnterpolation 时分数据插空（技术） 
+ Tag 电缆插头 
+ Take 实录 
+ Takeoff 取出 
+ Takeover 恢复＊话音叠入＊商议 
+ Talkback 对讲＊联络 
+ Tally 播出＊提示＊插入 
+ Tap 电流输出＊节拍 
+ Tape 带＊磁带 
+ Tango 探戈 
+ TB talkback 对讲回送 
+ TB terminal board 接线端子子板 
+ TB time base 时基 
+ TBC time base corrector 时基校正器 
+ TBK tallback 对讲 
+ TC telecine 电影电视机 
+ TC time code 时间码 
+ TC transmitter-tunning circuit 发射机调谐电路 
+ TC trim coil 微调线圈 
+ TCC tripl concentric cable 三芯同轴电缆 
+ TDE time domain equalizer 时域等化器 
+ TECH technique 技术＊技能＊技巧 
+ TED television disk 电视唱片 
+ TEL telescopic 拉杆天线 
+ TEMP temperature 温度 
+ Temp 节奏 
+ TEMOP temporary 中间（工作）单元 
+ TEMPO Tempo 节奏＊连接＊速度 
+ Terminal 终端＊接线柱＊引线＊接头 
+ Tentelometer 张力表 
+ TER termination 终端 
+ Test 测试＊试验＊检验 
+ THD total harmonic distortion 总谐波失真 
+ Theater 剧场效果＊现场 
+ Thermal noise 热噪声 
+ Thick 沈重＊厚重度 
+ Thin 单薄声音 
+ Thinness 薄（打击乐） 
+ THR THRESH threshold 阈值＊阈＊门限 
+ Thresh thrash 多次反复 
+ Three dimension 3D音响＊三维立体声音响系统 
+ Throat 高音号角的喉 
+ THRU through 通过＊过桥＊直接转送 
+ Trump 键击噪声＊低频噪声＊开机砰声 
+ Thrust 插入＊强行加入 
+ THX tom holman"s eXpriment 汤·霍尔曼实验＊家庭影院 
+ TI temperatun indicator 温度指示器 
+ TIE terminal interface exchange 终端接口交换 
+ Tie 连接符号＊馈线＊通信 
+ Tierce 第三音＊五倍音 
+ Tight 硬＊紧＊硬朗 
+ TIM transient intermodulation 瞬态互调失真 
+ Timber 音质＊音色 
+ Timbre 声部 
+ Time 时间＊倍＊次＊定时的 
+ Timer 定时器＊计时器 
+ Tininess 单薄 
+ Tint 色调 
+ TIP terminal interface processor 终端接口处理机 
+ Tip 头端＊热端 
+ Title 标题＊字幕 
+ TK track 音轨 
+ TL track loss 轨迹丢失 
+ TLE trunk line equipment 干线设备 
+ TM trade mark 注册商标 
+ TMS transmission mesurement set 电平表 
+ TMT transmit 发送 
+ TN tuning unit 调谐装置 
+ TOC 节目目录 
+ Tone 音调＊声调＊纯音 
+ Tone burst 猝发音 
+ Tone color 音色 
+ Tone quality 音色＊音品 
+ Tonic 律音 
+ Top 最高 
+ TOS tape operating system 磁带操作系统 
+ Total 总＊总共 
+ Total tune 整体协调＊总调谐 
+ Touch 触＊压＊按 
+ Touch sens 键盘乐器指触的触感 
+ TPD turnout piece delay 分支延时 
+ TR tape recorder 磁带录音机 
+ TR telerecording 电视屏幕录像 
+ TR tracking 跟踪 
+ TR transfer 传输＊转移 
+ TR trick 特技效果 
+ Track 曲目号＊磁迹＊音轨 
+ Tracking 寻迹＊跟踪＊统调 
+ Tracking monitor 调校监听 
+ Trad 陷波器＊带阻滤波器 
+ Tramp 三通道功放系统 
+ Transfer 转印＊转接 
+ Transformer 变压器 
+ Transpose 转调＊变换器＊移调 
+ Transport 运行＊发送 
+ Transient 瞬态 
+ Transient distortion 瞬态失真 
+ Transient response 瞬态反应 
+ Transmit 发射 
+ Transistor 晶体管＊三极管 
+ Transponder 转调器＊变换器 
+ Transposer 变调器 
+ Transversal equalizers 横向均衡器 
+ Treble 高音＊三倍的＊三重的 
+ Tremold tremor 颤音 
+ Tremolo 震音 
+ Tremor 颤音＊振音装置 
+ Triamp 三路电子分音 
+ Trick 特技 
+ Trig 修饰 Spatializer 声场定位技术 
+ U 
+ UHF ultra high requency 超高频 
+ UL upper limit 上限 
+ UL user hanguage 用户语言 
+ ULD unit logic device 组织逻辑装置 
+ ULF ultra-low frequency 超低频 
+ UNBAL Unbalance 非平衡（连接）＊不平衡度 
+ Undo 不执行操作 
+ Unit 单位 
+ Uni-directinoal microphone 单方向性话筒 
+ Uniform quantizer 均匀量化器 
+ Unlocked 未上锁＊不同步＊不锁定 
+ Unlson 谐音＊调和 
+ Unpitched sound 噪声＊无调声 
+ Unscramble 清理＊使···清晰 
+ UHF ultra high frequency 超高频 
+ UL upper limit 上限 
+ UL user language 用户语言 
+ ULD unit logic device 组织逻辑装置 
+ ULF ultra-low frequency 超低频 
+ UNBAL Unbalance 非平衡（连接）＊不平衡度 
+ Undo 不执行操作 
+ Unit 单位 
+ Uni-directinoal microphone 单方向性话筒 
+ Uniform quantizer 均匀量化器 
+ Unlocked 未上锁＊不同步＊不锁定 
+ Unlson 谐音＊调和 
+ Unpitched sound 噪声＊无调声 
+ Unscramble 清理＊使…清晰 
+ Unset 复位＊复原＊消除 
+ UP ultra pass 高通 
+ UP ultraportable 超便携式 
+ Up 向上＊增加 
+ Update 修正＊校正 
+ UPO 不失真功率输出 
+ Upper 升高＊向上 
+ Uppercase 大写的＊用大写字母排印 
+ UPS uniterruptable power output 不间断电源 
+ Up to date 最新式的 
+ User 用户 
+ USS United States Standard 美国标准 
+ UTIL utility 实效＊实用＊应用 
+ Utility edit/compare 功能剪辑/比较 
+ UTP unshielded twisted pair 未屏蔽双绞线 
+ V 
+ VOL volume 音量＊体积＊片号＊响度 
+ VOS voice operated switch 声控开关 
+ VOX voice operated switching device 声音控制切换装置 
+ VOX voice iperated transmitter 音控传输装置 
+ VOX voice test 语言测试信号 
+ Vox （拉丁语）声音 
+ Vowel 元音 
+ VPS video phase setter 视频相位调节器 
+ VPS video program system 视频演放系统 
+ VR variable resistor 电位器＊可变电阻器 
+ VRA variable response amplifier 可调响应放大器 
+ VRR visual radio range 视频无线电波段 
+ VSR vital slave reels 虚拟从属卷（硬盘录音机） 
+ VSS virtual surround system 虚拟环绕声系统 
+ Vth threshold voltage 阈值电平 
+ VU volume unit 音量单位表＊ VU表V value 数值＊音长 
+ VA volt ampere 伏安 
+ VA volt ammerter 伏安表 
+ Variation 变化＊参数调节＊变奏 
+ Variable 可变量 
+ VC VOCal cancel 原歌声消除 
+ VCA voltage control Amplifier 压控增益放大器 
+ VCD video compact disk 视频激光唱片 
+ VCF video controlled filter 电压控制滤波器 
+ VCO voltage controlled oscillator 电压控制振荡器 
+ VCR video cassette recorder 录像机 
+ VDA 音色音量 
+ VDA variable digital amplifier 可变数字式滤波器 
+ VDF 音色亮度 
+ VDP 激光影碟机 
+ VDU video display unit 视频显示器 
+ VELO velocity 速度＊力度 
+ Vent 通路＊出口 
+ VERB reverberate 混响 
+ Verify 检验＊核对 
+ Verisimilar 逼真的 
+ Vertical 垂直 
+ VF video frequency 视频 
+ VFX voice effects 语音特技效果 
+ VFD vacuum fluorescent display 真空荧光显示 
+ VGA variable gain amplifier 可变增益放大器 
+ VHD video high density system 视频高密度系统 
+ VHF very high frequency 甚高频 
+ VI volume indicator 音量指示器 
+ Via 经曲＊借助于 
+ VIB Vibrato 颤音 
+ Vibration 振动 
+ VID video 视频的 
+ VID virtual image display 真实图像 
+ Video 视频＊图像＊电视的 
+ Videodisc 视频唱片 
+ View 总缆＊指示＊观察 
+ Village Gatage 小音乐厅效果 
+ Violin 小提琴 
+ VIP variable information processing 可变信息处理器 
+ VIP versatile information processor 多种信息处理器 
+ VIP visual image processor 视频图像处理器 
+ VIP visual input 视频输入 
+ VIR virtual image 虚像 
+ Vision 影像 
+ Vision cable 电视电缆 
+ VLF very low frequency 超低频 
+ VLS virtual listening system 虚拟听音系统 
+ VMT voltage mate technlolgy 电压匹配技术 
+ VO vertical output 垂直输出＊帧扫描输出 
+ VO voice 语言＊音频 
+ VOC vocoder 声码器＊语音编码器 
+ Vocal 声音的＊声乐的＊发音的 
+ Vocal partner 声混合＊伴音 
+ Vibration 振动 
+ VODER voice operation demonstrator 语音合成器 
+ Voice 语言＊人声＊音频 
+ Voicing 声部＊（钢琴）琴键触感硬度一致性调整 
+ Voice over 声过滤 
+ VOL voltage 电压 
+ VTR video tape recorder 磁带录像机 
+ VTS video tape splicer 录像剪辑机 
+ W 
+ W watt 瓦特＊瓦 
+ write 写入 
+ Walk-man 袖珍盒式放音机＊随身听（俗称） 
+ Wall 墙面吸声特性 
+ WalFin 墙面微调 
+ Waltz 华尔兹圆舞曲 
+ Warble tone 啭声 
+ Wargin 余量指示 
+ Warm 温暖的＊丰满的 
+ Warm 警告＊示警 
+ Watcher 指示灯＊监视器 
+ Wave 波 
+ Waveguide 波导 
+ Wavelength 波长 
+ Way 路＊频段 
+ WB wideband 宽频带 
+ WB work bench 工作台 
+ WBT wide band transmission 宽频带传输 
+ WE weighting 计权＊加权 
+ Weak 弱的 
+ Weight 重量 
+ Wheel 调节旋轮 
+ Wet 湿＊效果声信号＊未加工的 
+ WF Waveform 波形 
+ Whispern 沙沙声 
+ Whistle 啸叫声＊哨声 
+ White 白色 
+ White noise 白噪声 
+ Whole 完整的 
+ Wide 宽广＊宽阔 
+ Wideband 宽带＊宽频带 
+ Widening 扩展＊加宽 
+ Wow 抖晃＊低频颤动 
+ Wow/flutter 抖晃率 
+ WS working storage 暂存器 
+ Woofer 低音音箱 
+ WidFin 水平微调 
+ Width 密度 
+ Wind 快进 
+ window 窗＊窗口 
+ Wiping head 消磁头 
+ Wire 导线＊线 
+ Wired 有线的＊有线传输 
+ Wireless 无线电的＊无线的 
+ Wireless mic 无线话筒 
+ Wiring 配线＊装设线路 
+ With 逆向＊相对 
+ Write 写入＊存入 
+ WRMS weighted root mean square 加权均方根值 
+ Wtd weighted 加权 
+ WORM write once read mang 一次写入型光盘 
+ Wole Tone 不协和调 
+ X 
+ X cross 删除＊交叉 
+ X exchange 交换 
+ X exterior 扩展 
+ X extra 附加＊备用品 
+ X-bass 低音扩展 
+ XBS extra bass system 重低音系统 
+ XFER transfer 转移 
+ X-FMR,X-FORMER 变压器 
+ XIC transmission interface converter 传输接口转换器 
+ XIR extreme infrared 远红外线 
+ XLR 卡侬接口 
+ XMIT transmit 传输＊发送 
+ XPLN explansonder 解释＊说明 
+ XPNDR transponder 转发器＊应答器 
+ X pose 除伪 
+ XT XTALK cross talk 串音＊串扰 
+ XVTR transverter 变换器 
+
+
+
+
+
