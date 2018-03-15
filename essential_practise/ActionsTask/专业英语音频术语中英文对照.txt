@@ -4,7 +4,14 @@
 
 
  
-    A   AAC automatIC ampltiude control 自动幅度控制   AB AB制立体声录音法   Abeyancd 暂停＊潜态   A-B repeat A-B重复   ABS absolute 绝对的＊完全的＊绝对时间   ABS ameriCAN bureau of standard 美国标准局   ABSS auto blank secrion scanning 自动磁带空白部分扫描   Abstime 绝对运行时间 
+ A   AAC automatIC ampltiude control 自动幅度控制  
+ AB AB制立体声录音法  
+ Abeyancd 暂停＊潜态   
+ A-B repeat A-B重复   
+ ABS absolute 绝对的＊完全的＊绝对时间   
+ ABS ameriCAN bureau of standard 美国标准局   
+ ABSS auto blank secrion scanning 自动磁带空白部分扫描   
+ Abstime 绝对运行时间 
  A.DEF audio defeat 音频降噪＊噪声抑制＊伴音静噪 
  ADJ adjective 附属的＊附件 
  ADJ Adjust 调节 
